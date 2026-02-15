@@ -77,19 +77,16 @@ def bloom_filter_test_str(n, eps, num_of_attemps, fill_percent=0.25):
     return avg_rate
 
 
-if __name__ == "__main__":
+n = 15_000
+eps = 0.5 
+m =  int( - (n * math.log(eps)) / (math.log(2) ** 2))
+k = max(1, int((m / n) * math.log(2)))
+eps = (1 - math.exp(-(k*n) / m ) ) ** k
 
-    n = 15_000
-    eps = 0.5 
-    m =  int( - (n * math.log(eps)) / (math.log(2) ** 2))
-    k = max(1, int((m / n) * math.log(2)))
-    eps = (1 - math.exp(-(k*n) / m ) ) ** k
+for fill in [0.25, 0.5, 0.75, 0.95]:
+    print(f"\n Наполненность {round(fill*100, 2)}% (числа)")
+    bloom_filter_test_num(n=15_000, eps=0.5, num_of_attemps=5, fill_percent=fill)
+    print(f"\n Наполненность {round(fill*100, 2)}% (строки)")
+    bloom_filter_test_str(n=15_000, eps=0.5, num_of_attemps=5, fill_percent=fill)
 
-    for fill in [0.25, 0.5, 0.75, 0.95]:
-        print(f"\n Наполненность {round(fill*100, 2)}% (числа)")
-        bloom_filter_test_num(n=15_000, eps=0.5, num_of_attemps=5, fill_percent=fill)
-
-        print(f"\n Наполненность {round(fill*100, 2)}% (строки)")
-        bloom_filter_test_str(n=15_000, eps=0.5, num_of_attemps=5, fill_percent=fill)
-
-    print(f"\n m = {int(m)}, k = {(k)}, eps = {round(eps, 3) * 100}%")
+print(f"\n m = {int(m)}, k = {(k)}, eps = {round(eps, 3) * 100}%")
