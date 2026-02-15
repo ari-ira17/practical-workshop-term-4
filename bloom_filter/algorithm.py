@@ -25,10 +25,13 @@ class BloomFilter:
             self.k = k
         
         elif n != None and eps != None:
-            self.m =  int( - (n * math.log(eps)) / (math.log(2) ** 2))
-            self.k = int((self.m / n) * math.log(2))
+            self.n = n
+            self.eps = eps
+
+            self.m =  int( - (self.n * math.log(eps)) / (math.log(2) ** 2))
+            self.k = max(1, int((self.m / self.n) * math.log(2)))
     
-        self.hash_functions = [HashFunction(seed = i) for i in range(self.k)]   # создаем k объектов класса и кладем их в список
+        self.hash_functions = [HashFunction(seed = i) for i in range(self.k)]  
         self.bit_array = [False] * self.m
 
 
@@ -51,6 +54,38 @@ class BloomFilter:
                 
         return True
 
-bloom_filter = BloomFilter(m=100, k=1000)
-bloom_filter.add('meow')
-print(bloom_filter.check('meow'))
+
+class BloomFilterCount(BloomFilter):
+
+    def __init__(self, m=None, k=None, n=None, eps=None):
+        super().__init__(m, k, n, eps)
+
+        self.counter_array = [0] * self.m
+
+
+    def add(self, element): 
+
+        for hash_f in self.hash_functions:
+            value = hash_f.new_hash_f(element)
+            index = value % self.m
+            self.counter_array[index] += 1
+
+
+    def check(self, element):
+
+        for hash_f in self.hash_functions:
+            value = hash_f.new_hash_f(element)
+            index = value % self.m
+
+            if self.counter_array[index] == 0: 
+                return False
+                
+        return True
+            
+    
+    def remove(self, element):
+        
+        for hash_f in self.hash_functions:
+            value = hash_f.new_hash_f(element)
+            index = value % self.m
+            self.counter_array[index] = max(0, self.counter_array[index] - 1)   
