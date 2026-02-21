@@ -15,19 +15,23 @@ class Hyperloglog:
         if p is not None:
             self.p = p
         elif eps is not None:
-            self.p = int(2 * math.log2((1.04 / eps)))
+            self.p = math.ceil(2 * math.log2((1.04 / eps)))
         else:
             self.p = 12
 
         self.m = 2 ** self.p
         self.registers = [0] * self.m
-        self.r = 0
-        self.tail = 0
 
-    def rho(self, value):
+
+    def procced_element(self, value):
         hash_value = HashFunction.hash_function(value)
-        
+        register_index = hash_value & (self.m - 1)  # номер регистра
+        remaining_hash = hash_value >> self.p
 
+        if remaining_hash == 0:
+            position = 0
+        else:
+            position = (remaining_hash & -remaining_hash).bit_length()      # ро
         
-
+        self.registers[register_index] = max(self.registers[register_index], position)
 
