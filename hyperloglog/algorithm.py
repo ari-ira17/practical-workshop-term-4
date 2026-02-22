@@ -35,3 +35,35 @@ class Hyperloglog:
         
         self.registers[register_index] = max(self.registers[register_index], position)
 
+    def estimate_cardinality(self):
+
+        z = 1 / sum([2 ** (-reg) for reg in self.registers])
+
+        if self.m == 16:
+            a_m = 0.673
+        elif self.m == 32:
+            a_m = 0.697
+        elif self.m == 64:
+            a_m = 0.709
+        else:
+            a_m = (0.7213 / (1 + (1.079 / self.m)))
+
+        E = a_m * (self.m ** 2) * z
+        V = self.registers.count(0)
+
+        if E < 2.5 * self.m and V > 0:
+            n = self.m * math.log(self.m / V)
+        elif E > (2 ** 32) / 30:
+            n = (-(2 ** 32)) * math.log(1 - E / 2 ** 32)
+        else: 
+            n = E
+
+        return(n)
+    
+    def hyperloglog_estimate(self, values):
+        for val in values:
+            self.procced_element(val)
+
+        cardinality = self.estimate_cardinality()
+
+        return cardinality
