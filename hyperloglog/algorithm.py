@@ -67,3 +67,12 @@ class Hyperloglog:
         cardinality = self.estimate_cardinality()
 
         return cardinality
+    
+    def __add__(self, other):
+        if self.p == other.p:
+            result = Hyperloglog(p=self.p)
+            for i in range(self.m):
+                result.registers[i] = max(self.registers[i], other.registers[i])
+            return result
+        else:
+            print("Параметр р должен быть одинаковым")
