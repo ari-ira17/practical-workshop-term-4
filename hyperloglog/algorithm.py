@@ -23,7 +23,7 @@ class Hyperloglog:
         self.registers = [0] * self.m
 
 
-    def procced_element(self, value):
+    def process_element(self, value):
         hash_value = HashFunction.hash_function(value)
         register_index = hash_value & (self.m - 1)  # номер регистра
         remaining_hash = hash_value >> self.p
@@ -62,7 +62,7 @@ class Hyperloglog:
     
     def hyperloglog_estimate(self, values):
         for val in values:
-            self.procced_element(val)
+            self.process_element(val)
 
         cardinality = self.estimate_cardinality()
 
