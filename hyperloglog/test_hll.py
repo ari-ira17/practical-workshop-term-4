@@ -147,6 +147,7 @@ def test_small_thread_union():
 
     assert avg_rel_errors <= 0.01
 
+
 def test_norm_thread_union():
     random.seed(200)
     thread = 200_000
