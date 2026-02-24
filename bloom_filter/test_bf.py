@@ -116,14 +116,3 @@ def test_crossing_bf_counter():
     assert crossing.check('dog')
     for el in ['cat', 'bird', 'cow']:
         assert crossing.check(el) == False
-
-
-test_builder_bf()
-test_builder_bf_counter()
-test_add_check_bf()
-test_add_check_bf_counter()
-test_remove_bf_counter()
-test_union_bf()
-test_union_bf_counter()
-test_crossing_bf()
-test_crossing_bf_counter()
