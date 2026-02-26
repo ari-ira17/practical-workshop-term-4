@@ -1,4 +1,7 @@
-from algorithm import Hyperloglog
+import sys
+import os
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from hyperloglog.hll_algorithm import Hyperloglog
 from test_hll import date_gen
 
 import random

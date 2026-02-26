@@ -1,7 +1,10 @@
+import sys
+import os
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 import random
 from datetime import datetime, timedelta
 
-from algorithm import Hyperloglog
+from hyperloglog.hll_algorithm import Hyperloglog
 
 
 def date_gen():
