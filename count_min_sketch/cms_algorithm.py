@@ -9,11 +9,18 @@ class HashFunction:
         
 
 class CountMinSketch:
-    def __init__(self, eps, delta):
-        self.eps = eps
-        self.delta = delta
-        self.d = math.ceil((math.log(1 / delta)))
-        self.w = math.ceil(math.e / eps)
+    def __init__(self, eps=None, delta=None, d=None, w=None):
+        if eps is not None and delta is not None:
+            self.eps = eps
+            self.delta = delta
+            self.d = math.ceil((math.log(1 / delta)))
+            self.w = math.ceil(math.e / eps)
+        else:
+            self.d = d
+            self.w = w
+            self.eps = math.e / w
+            self.delta = math.exp(d)
+            
         self.matrix = [[0] * self.w for _ in range(self.d)]
 
     def update(self, value):
