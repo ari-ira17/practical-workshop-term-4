@@ -19,7 +19,7 @@ class CountMinSketch:
             self.d = d
             self.w = w
             self.eps = math.e / w
-            self.delta = math.exp(d)
+            self.delta = math.exp(-d)
             
         self.matrix = [[0] * self.w for _ in range(self.d)]
 
