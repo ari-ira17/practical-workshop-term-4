@@ -1,0 +1,1253 @@
+pilot_name,team_name,track_city,dnf_percent,avg_speed,wins_count,number_of_overtaking_last_year,driver_salary_mln,penalty_points,personal_position,collision
+Bearman,Haas,Las Vegas,14,283.29734790808607,70,80,44,7,14,1
+Hulkenberg,Sauber,Budapest,20,244.41173815714623,67,90,63,9,20,1
+Bearman,Haas,Montreal,5,216.08058728294301,34,25,42,10,14,1
+Lawson,Racing Bulls,Lusail,29,291.2379818336085,94,32,43,6,8,1
+Leclerc,Ferrari,Spielberg,22,285.9980310860668,13,47,22,5,15,1
+Hulkenberg,Sauber,Sakhir,4,156.09829806691664,81,34,4,9,2,0
+Albon,Williams,Abu Dhabi,24,290.86117086664086,27,45,60,2,10,0
+Sainz,Williams,Monza,16,241.58215673865075,38,16,50,10,13,1
+Norris,McLaren,Jeddah,28,60.06159981482727,72,77,20,10,13,1
+Sainz,Williams,Imola,5,223.45542915507448,34,44,54,7,18,1
+Verstappen,Red Bull,Baku,19,278.2712322642653,46,87,48,2,19,1
+Leclerc,Ferrari,Lusail,29,240.40235444851555,24,12,33,6,10,1
+Piastri,McLaren,Austin,13,52.9475654980222,38,22,53,7,11,1
+Russel,Mercedes,Singapore,1,348.8571503269527,47,95,51,8,10,0
+Hamilton,Ferrari,Jeddah,27,65.5679555070689,95,64,17,2,13,1
+Hulkenberg,Sauber,Spa,24,108.60002549580987,97,73,30,9,13,1
+Hadjar,Racing Bulls,Singapore,19,337.7177382610305,59,53,64,9,12,1
+Alonso,Aston Martin,Lusail,17,59.50487934172608,44,24,52,6,1,1
+Antonelli,Mercedes,Zandvoort,24,73.3878941688526,28,19,2,0,3,1
+Antonelli,Mercedes,Montreal,3,197.9259995443678,29,6,29,7,12,1
+Bearman,Haas,Lusail,10,186.69614286686323,26,99,27,2,2,0
+Leclerc,Ferrari,Zandvoort,19,75.14652931756738,8,7,5,0,13,1
+Bortoleto,Sauber,Spa,3,306.7382340759496,53,24,9,4,7,0
+Lawson,Racing Bulls,Spielberg,25,336.88534660625345,20,26,50,9,20,1
+Hulkenberg,Sauber,Lusail,0,273.9621054082945,65,84,25,1,13,0
+Tsunoda,Red Bull Racing,Jeddah,11,309.898918867863,65,2,17,2,14,0
+Tsunoda,Red Bull Racing,Las Vegas,16,164.07294723947012,76,14,30,0,5,0
+Norris,McLaren,Imola,20,61.12645023825692,19,63,40,9,14,1
+Alonso,Aston Martin,Baku,23,168.93161518088726,48,21,31,4,11,1
+Hadjar,Racing Bulls,Barcelona,9,206.5238717111435,76,55,9,8,19,1
+Lawson,Racing Bulls,Abu Dhabi,10,306.65758732893346,87,28,64,5,18,0
+Leclerc,Ferrari,Baku,24,202.4673699424304,72,99,36,9,9,0
+Stroll,Aston Martin,Monza,25,347.4071650985037,44,19,54,5,19,1
+Hulkenberg,Sauber,Monaco,24,137.14527044622596,71,85,41,3,12,1
+Russel,Mercedes,Monza,10,84.7911979203294,8,39,65,9,20,1
+Hadjar,Racing Bulls,Melbourne,4,188.18465511663968,4,7,39,11,9,0
+Colapinto,Alpine,Sakhir,8,152.4351671546659,82,62,9,2,13,0
+Leclerc,Ferrari,Miami,26,227.4162336493348,30,48,58,6,12,1
+Piastri,McLaren,Imola,7,289.44905510063904,29,94,22,10,15,1
+Lawson,Racing Bulls,Mexico City,0,250.48009794424644,11,77,19,2,5,0
+Hamilton,Ferrari,Lusail,0,201.20274911501588,50,29,6,3,19,0
+Russel,Mercedes,Singapore,16,100.12201570121616,48,12,34,5,1,1
+Tsunoda,Red Bull Racing,Sao Paulo,0,197.6950174100655,40,80,6,8,20,1
+Bortoleto,Sauber,Baku,14,195.71395218645173,96,34,62,1,3,0
+Leclerc,Ferrari,Shanghai,19,169.26933331491156,44,50,57,3,6,0
+Tsunoda,Red Bull Racing,Monza,16,97.65192226549186,60,58,20,8,15,1
+Albon,Williams,Mexico City,28,161.20477684370286,0,18,47,5,5,0
+Gasly,Alpine,Mexico City,19,117.30229182114465,36,90,34,9,19,1
+Piastri,McLaren,Barcelona,24,314.710841434159,9,43,13,0,11,1
+Lawson,Racing Bulls,Montreal,4,228.6764859117858,7,34,30,7,1,0
+Stroll,Aston Martin,Jeddah,13,106.87045545994809,73,2,40,2,20,1
+Russel,Mercedes,Abu Dhabi,22,257.5167724823319,52,78,40,2,11,1
+Hamilton,Ferrari,Monza,13,145.29317742451906,75,47,65,2,4,1
+Hulkenberg,Sauber,Las Vegas,19,255.00077990368516,57,23,39,9,9,0
+Norris,McLaren,Sao Paulo,0,165.11996325116266,86,26,33,1,12,0
+Hulkenberg,Sauber,Melbourne,8,177.41080128615394,62,9,60,1,19,0
+Gasly,Alpine,Jeddah,9,124.55754785361667,11,1,65,6,7,1
+Lawson,Racing Bulls,Barcelona,14,217.82456755758986,37,1,34,8,19,1
+Gasly,Alpine,Singapore,17,305.0622872101904,64,20,43,1,1,0
+Ocon,Haas,Mexico City,10,313.6741462132087,14,43,22,6,2,0
+Russel,Mercedes,Silverstone,3,140.71355709464183,96,5,4,2,14,1
+Verstappen,Red Bull,Abu Dhabi,18,317.06336733338713,62,72,29,3,8,0
+Stroll,Aston Martin,Lusail,28,201.99991503310926,92,84,20,4,13,1
+Alonso,Aston Martin,Austin,14,347.828255716733,44,86,16,4,15,0
+Leclerc,Ferrari,Jeddah,11,117.24381247686352,79,66,62,9,1,1
+Hadjar,Racing Bulls,Budapest,6,56.53872391092164,82,96,35,1,5,1
+Hulkenberg,Sauber,Zandvoort,12,325.95055522220053,31,74,30,9,9,0
+Sainz,Williams,Barcelona,20,249.23408618584767,41,70,10,2,1,0
+Hulkenberg,Sauber,Montreal,14,72.7905291917484,68,68,2,7,11,1
+Norris,McLaren,Zandvoort,25,245.08770510978857,7,51,43,4,3,0
+Alonso,Aston Martin,Sao Paulo,18,217.57245498422168,75,80,61,8,4,0
+Alonso,Aston Martin,Melbourne,12,234.27709989997103,93,15,28,11,3,0
+Colapinto,Alpine,Sao Paulo,3,336.9508095050334,13,41,44,9,20,1
+Albon,Williams,Monza,0,344.7912576564416,52,67,12,0,18,0
+Verstappen,Red Bull,Abu Dhabi,17,161.98448792032053,61,74,60,5,13,1
+Norris,McLaren,Suzuka,22,319.23849848588577,44,69,39,5,7,0
+Bearman,Haas,Monza,7,168.63459343265973,22,61,65,11,14,1
+Verstappen,Red Bull,Spa,15,195.28305846679808,44,92,38,2,20,0
+Leclerc,Ferrari,Sao Paulo,2,167.88270697427905,80,96,3,4,12,0
+Ocon,Haas,Sakhir,24,235.26620294502126,30,27,10,4,17,1
+Sainz,Williams,Austin,10,170.70789518913605,10,8,52,11,5,0
+Russel,Mercedes,Sao Paulo,23,265.42694948509546,32,91,54,3,20,1
+Piastri,McLaren,Suzuka,24,280.132326182189,28,43,35,8,9,0
+Alonso,Aston Martin,Shanghai,26,198.8916441455033,50,88,41,0,9,0
+Antonelli,Mercedes,Miami,19,63.887148623911926,7,66,64,6,1,1
+Stroll,Aston Martin,Austin,25,244.50891683734534,71,39,18,1,5,0
+Leclerc,Ferrari,Monza,24,140.9335526839902,83,8,27,6,4,1
+Ocon,Haas,Sakhir,3,132.64217690361437,27,22,32,0,15,1
+Stroll,Aston Martin,Monza,5,201.1182359977671,85,6,54,10,4,0
+Verstappen,Red Bull,Lusail,21,89.29811648058293,62,94,45,9,6,1
+Norris,McLaren,Sakhir,16,324.61629652626584,22,4,22,11,10,0
+Hulkenberg,Sauber,Mexico City,16,239.9947099784875,9,59,57,8,13,1
+Lawson,Racing Bulls,Sakhir,26,247.12651068042186,67,69,60,8,3,1
+Bortoleto,Sauber,Melbourne,15,172.8472552709261,29,67,9,4,11,0
+Hulkenberg,Sauber,Abu Dhabi,27,337.5947919832006,59,2,24,1,13,1
+Antonelli,Mercedes,Miami,12,76.75729681537608,61,21,15,4,4,1
+Bortoleto,Sauber,Monaco,24,66.58186749280773,94,9,16,0,14,1
+Gasly,Alpine,Mexico City,4,59.02651106470087,99,52,29,7,13,1
+Alonso,Aston Martin,Monaco,7,231.57284337208827,8,79,50,11,11,1
+Stroll,Aston Martin,Lusail,6,216.03718357475435,96,71,16,0,8,0
+Russel,Mercedes,Abu Dhabi,24,196.23241178503037,70,3,2,1,17,1
+Sainz,Williams,Mexico City,0,316.0571126783777,84,57,6,3,8,0
+Colapinto,Alpine,Montreal,23,67.87891847804917,68,84,34,2,3,1
+Bortoleto,Sauber,Jeddah,19,145.5380534497329,38,7,43,7,6,1
+Hamilton,Ferrari,Monaco,4,288.5285335313602,50,74,1,1,17,0
+Lawson,Racing Bulls,Austin,28,307.42134696047464,81,61,45,11,4,1
+Colapinto,Alpine,Lusail,24,76.24987946512616,74,40,33,5,5,1
+Hadjar,Racing Bulls,Baku,5,245.7312158103737,89,98,44,10,7,0
+Russel,Mercedes,Barcelona,5,315.33144890943385,89,89,47,3,4,0
+Verstappen,Red Bull,Spielberg,24,335.0555967437431,21,45,43,11,16,1
+Colapinto,Alpine,Barcelona,25,120.93221530701514,96,42,44,11,16,1
+Sainz,Williams,Spielberg,26,294.8304726148315,38,83,20,7,3,1
+Gasly,Alpine,Miami,9,115.45537941699777,34,69,21,11,10,1
+Gasly,Alpine,Las Vegas,21,237.46415167397836,43,16,47,2,5,0
+Antonelli,Mercedes,Sao Paulo,13,312.65238196217757,20,11,2,0,3,0
+Colapinto,Alpine,Silverstone,13,164.90765896407459,47,21,18,3,18,0
+Norris,McLaren,Lusail,25,233.3821974846995,37,2,7,11,18,1
+Stroll,Aston Martin,Spielberg,8,280.8642078076663,97,45,16,9,14,1
+Colapinto,Alpine,Monaco,17,293.980867369394,16,55,36,1,13,1
+Russel,Mercedes,Spa,27,186.0742941825659,90,40,62,8,1,1
+Sainz,Williams,Monza,24,135.23208948960811,21,82,48,10,4,1
+Verstappen,Red Bull,Montreal,14,67.79448547159312,89,77,63,4,2,1
+Tsunoda,Red Bull Racing,Sakhir,0,162.44937521812074,55,3,54,3,15,0
+Verstappen,Red Bull,Montreal,14,281.118441134544,66,30,51,6,4,0
+Antonelli,Mercedes,Budapest,29,172.96248434123098,2,32,53,10,4,1
+Gasly,Alpine,Melbourne,20,256.45485274598036,21,1,24,11,12,1
+Hadjar,Racing Bulls,Baku,19,64.39742280503798,59,90,17,7,1,1
+Ocon,Haas,Lusail,3,246.53817193838896,21,63,50,4,12,0
+Leclerc,Ferrari,Sao Paulo,2,70.31669047083561,99,61,30,6,2,1
+Antonelli,Mercedes,Lusail,9,134.30916869894534,17,64,11,11,1,1
+Antonelli,Mercedes,Imola,2,62.727186509163026,96,32,46,5,17,1
+Albon,Williams,Imola,0,181.4790264425806,0,57,57,2,1,0
+Lawson,Racing Bulls,Sao Paulo,27,122.95777265022943,59,44,51,1,11,1
+Hamilton,Ferrari,Monaco,27,264.9803622265258,7,83,16,2,14,1
+Hamilton,Ferrari,Melbourne,3,310.23783639216856,80,26,24,5,17,0
+Piastri,McLaren,Lusail,14,306.7206596773299,15,35,20,9,2,0
+Bearman,Haas,Suzuka,3,280.0907701252555,46,77,51,6,3,0
+Sainz,Williams,Sao Paulo,0,215.52108770397774,30,71,3,6,3,0
+Bortoleto,Sauber,Budapest,7,228.97857245152667,1,0,38,8,13,1
+Bortoleto,Sauber,Singapore,16,237.86616445565932,4,57,65,11,15,1
+Ocon,Haas,Monza,15,63.05295740308322,91,51,62,3,3,1
+Lawson,Racing Bulls,Sakhir,14,317.2199582333333,13,38,21,9,5,0
+Tsunoda,Red Bull Racing,Singapore,29,58.25404804140467,10,45,10,3,14,1
+Hulkenberg,Sauber,Spielberg,1,215.37958808610733,87,38,28,1,13,0
+Norris,McLaren,Budapest,20,50.20432131085343,72,23,51,5,15,1
+Hamilton,Ferrari,Shanghai,16,292.67214103566755,57,10,35,2,16,1
+Stroll,Aston Martin,Monaco,17,297.56840261791007,1,38,46,4,16,1
+Lawson,Racing Bulls,Baku,11,296.37675948059234,39,19,56,10,19,1
+Sainz,Williams,Monza,13,110.3686305891328,81,9,46,6,13,1
+Hadjar,Racing Bulls,Baku,14,174.51071035282018,29,57,19,5,15,0
+Piastri,McLaren,Mexico City,11,202.08430610488244,93,34,49,2,18,0
+Hulkenberg,Sauber,Spa,0,306.2416603058352,56,26,30,2,19,0
+Hamilton,Ferrari,Budapest,10,239.7011306655551,8,60,24,6,16,1
+Bearman,Haas,Budapest,12,281.5518868625604,79,31,42,6,4,0
+Leclerc,Ferrari,Spa,27,184.8292372822856,18,92,20,3,19,1
+Lawson,Racing Bulls,Austin,21,258.29064042609554,32,49,17,9,1,0
+Sainz,Williams,Spielberg,24,316.3457951071051,51,29,33,10,16,1
+Colapinto,Alpine,Singapore,13,223.86225800171044,55,30,55,8,5,0
+Alonso,Aston Martin,Monaco,24,247.5179077185847,2,67,6,11,9,1
+Hulkenberg,Sauber,Austin,15,133.8319008775074,82,98,20,5,19,1
+Hadjar,Racing Bulls,Mexico City,17,218.51761130865094,71,13,64,11,14,1
+Verstappen,Red Bull,Montreal,28,179.95126548383317,58,89,55,0,8,0
+Leclerc,Ferrari,Shanghai,12,202.88012400771984,86,26,32,2,8,0
+Lawson,Racing Bulls,Mexico City,13,187.9391695777506,8,9,47,8,5,0
+Leclerc,Ferrari,Lusail,28,155.84640875244557,59,56,18,3,9,0
+Bearman,Haas,Miami,12,318.69065286232717,28,33,65,8,5,0
+Alonso,Aston Martin,Austin,18,302.81866490929076,44,8,29,7,3,0
+Hadjar,Racing Bulls,Zandvoort,27,337.21434848381296,29,99,26,0,2,0
+Russel,Mercedes,Spa,22,265.20563387245363,91,77,15,3,17,1
+Bortoleto,Sauber,Las Vegas,16,344.57428085212956,75,3,12,6,8,0
+Hadjar,Racing Bulls,Spa,15,126.70515800729983,79,43,20,3,19,1
+Tsunoda,Red Bull Racing,Singapore,2,218.40646669532597,75,65,50,5,5,0
+Antonelli,Mercedes,Lusail,9,87.09709357934842,79,24,55,0,6,1
+Leclerc,Ferrari,Miami,9,143.84472178184794,67,52,9,3,5,1
+Gasly,Alpine,Suzuka,4,285.6312439997663,16,49,32,3,7,0
+Hamilton,Ferrari,Melbourne,20,157.09893520126766,23,67,57,3,7,0
+Gasly,Alpine,Melbourne,10,236.37675886284723,49,74,34,9,19,1
+Sainz,Williams,Spielberg,25,155.59464305287554,86,53,47,0,3,0
+Sainz,Williams,Lusail,1,292.8286594704926,40,25,52,0,14,0
+Bortoleto,Sauber,Singapore,7,181.5318652949309,26,5,10,10,12,1
+Piastri,McLaren,Jeddah,8,86.74506168361434,47,49,15,6,1,1
+Stroll,Aston Martin,Austin,29,258.7524858895086,13,72,14,3,2,0
+Piastri,McLaren,Abu Dhabi,18,176.94386046143433,16,15,50,1,9,0
+Russel,Mercedes,Zandvoort,25,312.05672523836347,65,34,36,3,6,0
+Colapinto,Alpine,Jeddah,15,225.82891971341456,39,15,30,5,4,0
+Hadjar,Racing Bulls,Melbourne,22,290.2850825428528,48,17,31,8,4,0
+Sainz,Williams,Austin,18,300.32126242937437,98,24,1,6,16,1
+Gasly,Alpine,Baku,19,323.9225903959371,66,31,52,1,8,0
+Russel,Mercedes,Imola,26,80.75187007019927,94,61,32,0,9,1
+Ocon,Haas,Silverstone,0,212.51922108417526,0,75,38,1,9,0
+Lawson,Racing Bulls,Silverstone,12,295.99515322307707,17,30,35,2,9,0
+Hadjar,Racing Bulls,Abu Dhabi,14,283.7690650467616,31,7,20,6,2,0
+Verstappen,Red Bull,Zandvoort,5,122.44096678738796,26,69,62,1,15,1
+Leclerc,Ferrari,Budapest,22,131.62844947207316,75,68,46,3,16,1
+Ocon,Haas,Baku,1,206.06117132068582,71,51,19,2,17,0
+Norris,McLaren,Las Vegas,22,95.35417429060521,46,3,4,6,12,1
+Albon,Williams,Melbourne,23,194.28035533240384,97,38,8,10,10,0
+Verstappen,Red Bull,Las Vegas,9,334.2871571750909,1,32,59,2,16,0
+Alonso,Aston Martin,Spa,29,152.241105132207,77,64,47,6,13,1
+Gasly,Alpine,Baku,19,251.9970564864821,63,11,26,4,7,0
+Alonso,Aston Martin,Abu Dhabi,14,217.44631214179617,62,96,44,1,1,0
+Piastri,McLaren,Mexico City,0,313.4061458697405,14,65,10,7,18,1
+Albon,Williams,Silverstone,12,224.75208991706143,43,5,44,10,3,0
+Hamilton,Ferrari,Singapore,12,226.9271604494634,30,15,24,7,11,1
+Norris,McLaren,Barcelona,22,201.31800095813992,79,7,22,1,16,1
+Hulkenberg,Sauber,Monaco,2,98.65043627163848,53,87,22,6,9,1
+Antonelli,Mercedes,Monza,23,251.89800707042335,13,32,39,10,9,0
+Hadjar,Racing Bulls,Miami,1,271.17931990915173,57,8,15,2,11,0
+Leclerc,Ferrari,Silverstone,7,72.14563487467535,41,23,47,3,11,1
+Gasly,Alpine,Shanghai,21,149.31868384482428,55,21,39,1,11,1
+Tsunoda,Red Bull Racing,Singapore,18,163.72367139858687,9,20,11,3,9,0
+Leclerc,Ferrari,Mexico City,6,214.6961302384102,81,7,41,7,2,0
+Leclerc,Ferrari,Abu Dhabi,26,88.14188556296223,53,52,64,10,14,1
+Hadjar,Racing Bulls,Sakhir,10,133.49641625236904,83,13,26,3,11,1
+Alonso,Aston Martin,Las Vegas,20,102.91648542632878,37,37,30,6,16,1
+Lawson,Racing Bulls,Singapore,6,221.68754261319532,70,93,45,8,16,1
+Stroll,Aston Martin,Austin,7,88.61315910337387,70,52,15,10,15,1
+Gasly,Alpine,Abu Dhabi,7,117.8916973384056,14,89,3,5,9,1
+Sainz,Williams,Mexico City,13,86.4202469453375,20,4,30,9,14,1
+Norris,McLaren,Las Vegas,1,149.63758122848688,52,81,9,6,12,1
+Leclerc,Ferrari,Sakhir,18,254.32061351363603,99,20,9,9,16,1
+Verstappen,Red Bull,Shanghai,25,166.23044034084464,75,22,19,1,19,1
+Hulkenberg,Sauber,Sakhir,2,222.73911295389192,12,3,25,9,7,0
+Russel,Mercedes,Melbourne,23,272.00623735002387,25,20,57,4,20,1
+Antonelli,Mercedes,Baku,23,189.59017300294832,25,91,45,3,6,0
+Colapinto,Alpine,Austin,24,54.84756244025022,67,81,11,9,9,1
+Leclerc,Ferrari,Lusail,1,77.25968178775534,4,93,48,5,18,1
+Colapinto,Alpine,Suzuka,24,183.43483713668408,20,41,15,11,16,1
+Sainz,Williams,Singapore,9,260.26408060271854,33,96,24,5,19,0
+Gasly,Alpine,Sakhir,24,83.4292990826405,9,90,50,2,3,1
+Gasly,Alpine,Sao Paulo,6,82.16400389814513,50,85,52,3,2,1
+Stroll,Aston Martin,Shanghai,10,85.4514900674324,41,42,32,4,12,1
+Albon,Williams,Melbourne,13,311.4770277340269,59,11,41,11,18,1
+Alonso,Aston Martin,Singapore,20,145.80776771248313,22,10,16,3,19,1
+Russel,Mercedes,Spielberg,13,241.79586916321063,28,57,21,8,11,1
+Hadjar,Racing Bulls,Monaco,22,67.46498128218748,26,44,28,1,12,1
+Hulkenberg,Sauber,Barcelona,10,76.14444184065287,29,26,18,4,18,1
+Alonso,Aston Martin,Montreal,6,183.52367871422376,28,92,31,11,18,1
+Antonelli,Mercedes,Abu Dhabi,5,81.25462577528305,15,70,27,10,17,1
+Gasly,Alpine,Singapore,23,326.46576457877336,59,5,65,9,11,1
+Hadjar,Racing Bulls,Miami,0,52.55942315830997,69,75,6,5,16,1
+Hamilton,Ferrari,Zandvoort,25,267.66600044816005,0,65,21,11,17,1
+Hadjar,Racing Bulls,Silverstone,11,269.4624496102209,71,27,24,8,18,1
+Colapinto,Alpine,Monaco,29,278.6720333712408,83,19,27,0,9,0
+Hulkenberg,Sauber,Baku,4,61.21976329920417,4,12,9,4,20,1
+Lawson,Racing Bulls,Austin,20,233.73214776106937,60,43,11,1,18,1
+Colapinto,Alpine,Shanghai,24,110.90891700964096,53,97,29,11,6,1
+Lawson,Racing Bulls,Sao Paulo,0,125.34218143084829,18,61,49,7,7,1
+Verstappen,Red Bull,Shanghai,22,270.1145650602706,81,16,28,6,7,0
+Norris,McLaren,Silverstone,7,151.423899888481,10,86,6,6,19,1
+Piastri,McLaren,Monaco,12,195.3547393933554,77,36,58,0,11,0
+Bearman,Haas,Austin,29,289.2618657580827,54,13,15,1,17,1
+Bortoleto,Sauber,Las Vegas,13,178.6502636893832,82,17,13,7,8,0
+Sainz,Williams,Abu Dhabi,5,210.5244954435228,90,33,4,4,6,0
+Bortoleto,Sauber,Shanghai,29,90.15123102420202,19,68,39,9,7,1
+Stroll,Aston Martin,Las Vegas,19,166.59286589579213,25,33,17,9,4,0
+Albon,Williams,Miami,23,243.45926563221627,40,95,57,11,16,1
+Gasly,Alpine,Suzuka,27,127.02886367321334,58,86,17,2,9,1
+Piastri,McLaren,Suzuka,0,278.98493944190864,51,87,26,7,14,1
+Norris,McLaren,Budapest,18,281.33330562368457,95,10,35,0,1,0
+Hamilton,Ferrari,Abu Dhabi,3,272.3775515862057,1,69,6,8,5,1
+Piastri,McLaren,Silverstone,24,88.10679701286715,44,92,41,7,14,1
+Gasly,Alpine,Montreal,1,313.0224881920247,1,64,3,8,12,1
+Verstappen,Red Bull,Jeddah,11,290.52271470418646,88,57,38,7,5,0
+Ocon,Haas,Jeddah,3,82.85699476223783,54,91,65,3,11,1
+Norris,McLaren,Sao Paulo,15,196.7084229332522,66,60,32,9,18,1
+Hadjar,Racing Bulls,Monza,18,157.58838387815535,58,31,59,7,8,0
+Gasly,Alpine,Sakhir,2,106.5724569566908,35,21,31,5,5,1
+Lawson,Racing Bulls,Austin,29,236.25356395608708,73,7,16,0,1,0
+Antonelli,Mercedes,Austin,5,224.95972067650857,76,48,50,4,18,0
+Leclerc,Ferrari,Sakhir,18,336.7985495407053,66,1,36,2,19,1
+Verstappen,Red Bull,Monaco,15,68.84056656647289,1,35,36,4,16,1
+Alonso,Aston Martin,Sao Paulo,21,306.551293685899,44,82,20,2,2,0
+Hadjar,Racing Bulls,Montreal,4,331.1481974780394,42,48,32,3,4,0
+Hulkenberg,Sauber,Jeddah,24,90.64545264562214,61,81,31,9,14,1
+Stroll,Aston Martin,Abu Dhabi,18,88.00582705511027,18,53,27,0,8,1
+Hamilton,Ferrari,Montreal,12,322.5774304702516,13,69,37,2,12,0
+Hulkenberg,Sauber,Baku,19,204.13232467590046,26,35,23,2,8,0
+Norris,McLaren,Sao Paulo,19,176.559071484193,64,3,24,6,12,1
+Russel,Mercedes,Abu Dhabi,22,171.3215693100688,92,91,1,7,16,1
+Antonelli,Mercedes,Singapore,9,92.87744230565163,82,18,51,1,13,1
+Bortoleto,Sauber,Monza,16,235.64197095563676,40,49,61,0,13,1
+Stroll,Aston Martin,Spielberg,26,324.4927049849016,0,96,39,2,18,1
+Hulkenberg,Sauber,Las Vegas,19,263.99069131774377,53,70,36,0,6,0
+Stroll,Aston Martin,Mexico City,20,76.40532887722505,39,59,5,1,9,1
+Norris,McLaren,Spa,27,246.2313227015229,19,65,54,9,8,1
+Verstappen,Red Bull,Lusail,22,77.57605408714763,27,22,3,8,1,1
+Russel,Mercedes,Melbourne,27,58.714289287243496,89,45,39,8,1,1
+Russel,Mercedes,Spa,9,132.8871451310764,71,1,12,5,1,1
+Hamilton,Ferrari,Melbourne,21,189.96324678589258,8,30,8,3,14,1
+Hulkenberg,Sauber,Budapest,25,87.0647714420692,9,83,57,9,13,1
+Hamilton,Ferrari,Abu Dhabi,9,286.9819201752789,34,34,44,0,14,0
+Ocon,Haas,Imola,11,62.19720674837379,35,87,61,8,13,1
+Russel,Mercedes,Barcelona,11,250.00173766315092,67,61,19,6,9,0
+Piastri,McLaren,Barcelona,20,149.1742679886933,88,21,29,9,9,1
+Antonelli,Mercedes,Budapest,9,125.63164020073117,65,31,54,4,8,1
+Verstappen,Red Bull,Imola,5,285.9038392841369,66,36,30,3,20,0
+Leclerc,Ferrari,Miami,9,286.9411442657812,61,10,12,3,1,0
+Gasly,Alpine,Imola,29,256.5661824596647,58,45,5,1,13,1
+Antonelli,Mercedes,Budapest,22,73.03128798798963,55,47,1,7,14,1
+Stroll,Aston Martin,Shanghai,1,68.53798783730566,71,96,34,7,20,1
+Colapinto,Alpine,Austin,23,259.8594231387407,4,73,54,9,6,1
+Hulkenberg,Sauber,Spa,21,63.90697872701754,67,46,64,0,16,1
+Gasly,Alpine,Sao Paulo,13,173.1375952331582,27,42,25,8,3,0
+Stroll,Aston Martin,Monaco,12,238.8048418927315,32,11,40,2,2,0
+Bortoleto,Sauber,Suzuka,6,282.1893495977436,50,93,15,10,18,1
+Leclerc,Ferrari,Baku,6,96.4788696384292,78,38,14,8,5,1
+Ocon,Haas,Miami,27,145.9367008943738,86,2,56,4,17,1
+Stroll,Aston Martin,Abu Dhabi,26,160.5097833215118,53,34,60,8,19,1
+Ocon,Haas,Monza,6,82.93735164121193,85,15,28,7,16,1
+Gasly,Alpine,Montreal,19,273.47567946702844,83,50,1,9,4,0
+Alonso,Aston Martin,Sakhir,20,248.21362194687615,95,23,29,3,17,1
+Antonelli,Mercedes,Melbourne,5,232.3807965238964,73,89,45,10,5,0
+Verstappen,Red Bull,Monaco,25,108.27238996920198,52,78,56,2,3,1
+Tsunoda,Red Bull Racing,Austin,12,274.12481530656845,99,11,21,11,9,0
+Lawson,Racing Bulls,Las Vegas,22,336.18569190093683,97,21,21,10,2,0
+Sainz,Williams,Sao Paulo,10,276.3899876345338,59,86,57,11,20,1
+Tsunoda,Red Bull Racing,Jeddah,23,309.26778335632247,79,5,24,10,6,0
+Leclerc,Ferrari,Spa,28,121.81190579662629,8,49,51,8,19,1
+Verstappen,Red Bull,Singapore,23,223.83019864151998,46,61,42,2,1,0
+Hadjar,Racing Bulls,Spielberg,20,124.79831816658549,62,47,36,3,2,1
+Colapinto,Alpine,Imola,19,313.08531930133825,20,25,30,2,1,0
+Hamilton,Ferrari,Spielberg,24,249.02619727566093,61,17,27,9,12,1
+Bearman,Haas,Silverstone,21,282.0811856505823,81,1,57,1,11,1
+Hulkenberg,Sauber,Lusail,29,122.03856061909269,84,15,32,5,4,1
+Hamilton,Ferrari,Sao Paulo,4,115.10548669324679,48,10,13,8,2,1
+Norris,McLaren,Imola,10,60.848862733258656,92,33,47,9,20,1
+Russel,Mercedes,Barcelona,3,216.83815845390401,46,68,3,3,15,0
+Ocon,Haas,Spa,4,304.613000536817,67,46,4,6,17,1
+Hadjar,Racing Bulls,Lusail,11,200.86215124275176,67,95,32,3,8,0
+Lawson,Racing Bulls,Jeddah,8,66.10573869959565,66,65,33,6,20,1
+Albon,Williams,Mexico City,17,177.63981034786838,55,77,24,9,10,0
+Ocon,Haas,Imola,6,181.83700689218136,32,20,61,6,19,1
+Bearman,Haas,Suzuka,5,321.527300371242,61,3,7,1,6,0
+Antonelli,Mercedes,Sakhir,9,128.42541215932292,90,76,28,1,2,1
+Hulkenberg,Sauber,Jeddah,16,160.175154554518,49,20,17,5,1,0
+Russel,Mercedes,Zandvoort,10,229.95575724907084,46,79,20,11,5,0
+Hadjar,Racing Bulls,Sao Paulo,0,172.52902110565168,86,34,51,8,6,0
+Stroll,Aston Martin,Baku,12,178.84576864411105,89,38,32,1,4,0
+Tsunoda,Red Bull Racing,Shanghai,25,112.7988616528172,33,0,40,6,14,1
+Stroll,Aston Martin,Lusail,10,179.39640176536918,43,4,29,7,8,0
+Verstappen,Red Bull,Mexico City,29,296.72046454256946,99,41,65,7,2,1
+Norris,McLaren,Budapest,15,296.3131123917796,21,95,56,7,8,0
+Hamilton,Ferrari,Abu Dhabi,19,50.097209257059546,82,7,24,11,16,1
+Piastri,McLaren,Zandvoort,21,119.33227290212064,69,33,27,8,8,1
+Stroll,Aston Martin,Spielberg,19,336.1064798079805,86,13,1,2,14,1
+Sainz,Williams,Shanghai,14,181.90559099343898,54,36,65,1,8,0
+Hamilton,Ferrari,Spielberg,25,167.8896297667672,10,73,61,2,3,0
+Hadjar,Racing Bulls,Montreal,6,237.9571745820475,74,34,44,4,18,0
+Hamilton,Ferrari,Melbourne,5,312.6143429022701,66,1,55,2,8,0
+Norris,McLaren,Las Vegas,26,198.24861808802737,1,31,6,11,18,1
+Stroll,Aston Martin,Spielberg,16,77.2131243806562,50,66,46,7,3,1
+Gasly,Alpine,Austin,9,66.56108242919765,70,27,43,0,16,1
+Gasly,Alpine,Sakhir,15,50.52665804704554,26,91,32,2,9,1
+Hadjar,Racing Bulls,Melbourne,3,133.2746162043338,78,42,53,9,3,1
+Bearman,Haas,Abu Dhabi,16,88.17068811827156,45,10,9,7,1,1
+Tsunoda,Red Bull Racing,Sao Paulo,15,209.30125811768787,65,47,59,11,16,1
+Hamilton,Ferrari,Shanghai,21,62.86488421153557,96,87,23,4,7,1
+Colapinto,Alpine,Mexico City,26,164.37555108455405,4,8,29,0,8,0
+Piastri,McLaren,Melbourne,24,241.13318327612706,99,87,53,5,14,1
+Antonelli,Mercedes,Spa,11,296.1738952233402,55,60,50,10,5,0
+Hamilton,Ferrari,Mexico City,6,62.78977857717075,64,39,50,8,14,1
+Sainz,Williams,Melbourne,18,71.49482440844113,85,5,9,2,12,1
+Hamilton,Ferrari,Imola,19,127.38244392570601,35,73,4,11,7,1
+Bortoleto,Sauber,Baku,20,88.03789264301456,43,39,25,10,14,1
+Hamilton,Ferrari,Sao Paulo,26,330.05223436083986,78,47,41,7,19,1
+Gasly,Alpine,Melbourne,25,343.79855400150973,41,72,11,7,20,1
+Verstappen,Red Bull,Spielberg,16,263.354670138718,54,33,50,6,10,0
+Gasly,Alpine,Spielberg,9,62.9745423941364,28,47,3,3,6,1
+Hadjar,Racing Bulls,Sakhir,24,286.22905549120514,90,20,58,2,18,1
+Gasly,Alpine,Suzuka,11,229.16655476447704,37,87,17,2,18,0
+Ocon,Haas,Barcelona,8,261.1148964679784,37,70,45,0,12,0
+Lawson,Racing Bulls,Suzuka,7,68.92671194409697,43,41,2,4,15,1
+Albon,Williams,Sakhir,4,244.49047642352326,44,1,58,10,19,1
+Norris,McLaren,Spa,1,123.34327092115672,62,84,63,8,12,1
+Bortoleto,Sauber,Miami,27,179.96518105085093,7,12,46,8,20,1
+Sainz,Williams,Lusail,27,298.9404561240167,46,86,20,1,17,1
+Ocon,Haas,Shanghai,24,59.06491474807368,55,60,4,7,19,1
+Hulkenberg,Sauber,Jeddah,15,196.9066660814009,37,49,27,11,15,1
+Lawson,Racing Bulls,Imola,24,275.13156025306506,94,18,26,11,2,0
+Colapinto,Alpine,Suzuka,22,313.2208365625029,76,19,23,7,5,0
+Tsunoda,Red Bull Racing,Las Vegas,14,327.7444628754985,50,95,15,5,9,0
+Bearman,Haas,Spielberg,12,148.4994905031146,82,2,11,1,4,1
+Gasly,Alpine,Silverstone,16,147.768718146828,61,66,12,3,11,1
+Leclerc,Ferrari,Montreal,3,127.34449611053519,81,32,30,11,13,1
+Hamilton,Ferrari,Imola,6,327.9083629583671,11,86,15,4,17,0
+Lawson,Racing Bulls,Jeddah,6,205.35619670644132,65,48,65,4,8,0
+Hamilton,Ferrari,Mexico City,18,142.02653130701626,68,32,47,3,20,1
+Hadjar,Racing Bulls,Las Vegas,8,326.02301584090003,31,76,21,4,13,0
+Leclerc,Ferrari,Abu Dhabi,3,307.95357703041896,47,74,46,4,8,0
+Russel,Mercedes,Monza,19,129.1741920436814,32,68,19,0,13,1
+Colapinto,Alpine,Monza,28,200.41254167782898,0,2,16,0,4,0
+Verstappen,Red Bull,Montreal,14,54.61726169437371,84,70,20,0,8,1
+Leclerc,Ferrari,Spa,12,290.0621587382016,88,57,28,11,13,1
+Antonelli,Mercedes,Sakhir,21,289.5278777240031,35,1,21,8,13,1
+Antonelli,Mercedes,Budapest,11,143.44073883077706,55,65,45,9,8,1
+Norris,McLaren,Abu Dhabi,26,249.9356334305436,29,45,30,1,5,0
+Hulkenberg,Sauber,Austin,6,241.22047694837332,3,22,6,7,5,0
+Hulkenberg,Sauber,Jeddah,8,335.07758795587137,72,15,31,3,17,0
+Russel,Mercedes,Baku,27,136.37653740447277,70,95,24,4,15,1
+Bearman,Haas,Suzuka,20,108.06910759187204,2,11,55,3,18,1
+Bearman,Haas,Monaco,18,343.6899828188191,77,80,2,4,15,1
+Ocon,Haas,Baku,0,133.31009411861442,96,81,58,3,5,1
+Stroll,Aston Martin,Barcelona,17,243.55803291198478,76,45,27,2,11,1
+Hulkenberg,Sauber,Sao Paulo,21,56.17477881995191,35,6,25,11,8,1
+Ocon,Haas,Imola,25,137.66724497160445,43,75,52,5,4,1
+Hamilton,Ferrari,Singapore,23,346.7269712834379,47,95,21,10,16,1
+Russel,Mercedes,Suzuka,5,101.78412683442625,84,97,27,2,6,1
+Albon,Williams,Spa,21,227.17264321647826,51,45,50,10,17,1
+Gasly,Alpine,Barcelona,19,233.42116013462936,80,30,54,7,19,1
+Bearman,Haas,Sakhir,9,290.9171871600315,16,34,8,0,16,0
+Hamilton,Ferrari,Singapore,20,179.1795783103098,67,74,19,0,16,1
+Bearman,Haas,Shanghai,13,102.59743194707582,35,43,38,6,8,1
+Gasly,Alpine,Jeddah,17,120.69260334847044,48,65,37,9,6,1
+Hadjar,Racing Bulls,Shanghai,21,294.17845710201425,36,50,14,11,1,0
+Hamilton,Ferrari,Budapest,19,150.11113227775076,38,29,31,4,15,1
+Sainz,Williams,Spielberg,20,163.06926823106102,6,15,20,10,9,0
+Stroll,Aston Martin,Sakhir,19,109.9516173466378,0,44,25,1,9,1
+Hamilton,Ferrari,Miami,17,281.44986227333726,81,82,3,1,11,1
+Colapinto,Alpine,Abu Dhabi,8,138.21323864521466,34,12,58,11,17,1
+Hadjar,Racing Bulls,Spielberg,19,195.57227495076756,18,96,32,7,7,0
+Leclerc,Ferrari,Montreal,11,98.49787301075528,47,58,16,6,15,1
+Hamilton,Ferrari,Silverstone,22,87.42680169673531,72,13,47,5,20,1
+Ocon,Haas,Singapore,16,316.7426552315148,42,84,24,7,14,1
+Alonso,Aston Martin,Baku,23,87.97797841001854,28,61,63,3,12,1
+Antonelli,Mercedes,Sao Paulo,17,111.41600842426459,14,39,60,5,15,1
+Bortoleto,Sauber,Mexico City,24,175.326393460626,33,48,22,8,3,0
+Tsunoda,Red Bull Racing,Miami,1,160.96496268359684,5,86,32,1,15,1
+Norris,McLaren,Jeddah,5,286.17375644169,46,74,27,4,12,0
+Gasly,Alpine,Melbourne,24,334.4878483857173,46,10,45,4,10,0
+Alonso,Aston Martin,Singapore,19,175.10499850333647,40,98,10,11,20,1
+Antonelli,Mercedes,Mexico City,14,289.8608850685886,22,45,4,11,4,0
+Norris,McLaren,Barcelona,8,204.960772954588,36,95,7,9,20,1
+Stroll,Aston Martin,Abu Dhabi,7,311.1682385274117,34,16,61,10,3,0
+Ocon,Haas,Melbourne,7,157.82515477769454,18,25,50,7,19,1
+Hamilton,Ferrari,Budapest,22,193.67363196997402,9,55,61,1,15,1
+Sainz,Williams,Austin,20,271.41146638334084,26,80,41,4,17,1
+Verstappen,Red Bull,Monza,0,61.70971091701346,9,71,51,9,13,1
+Stroll,Aston Martin,Shanghai,16,227.69929751486305,80,81,38,10,10,0
+Ocon,Haas,Monaco,25,333.4982043870608,37,47,64,2,13,1
+Piastri,McLaren,Lusail,11,286.183391799504,22,79,18,2,13,0
+Sainz,Williams,Montreal,10,118.31447770038518,1,2,54,3,13,1
+Hadjar,Racing Bulls,Spa,0,227.14608539435628,45,5,40,1,6,0
+Ocon,Haas,Spielberg,28,274.8413598231331,82,7,49,1,10,0
+Antonelli,Mercedes,Austin,2,148.88903035976213,46,23,38,6,20,1
+Hulkenberg,Sauber,Austin,5,51.20526427807869,87,91,6,10,5,1
+Hamilton,Ferrari,Singapore,22,104.0450985133314,69,14,26,6,11,1
+Lawson,Racing Bulls,Las Vegas,27,297.9395838670174,0,46,39,10,16,1
+Stroll,Aston Martin,Imola,16,230.05931484478575,3,38,25,0,14,1
+Ocon,Haas,Singapore,28,172.10106914690584,15,15,46,9,15,1
+Hadjar,Racing Bulls,Barcelona,22,201.2661866926894,34,95,53,4,2,0
+Antonelli,Mercedes,Sao Paulo,12,168.84887961052485,45,59,61,1,10,0
+Norris,McLaren,Mexico City,18,155.98596885341016,82,32,29,5,20,1
+Gasly,Alpine,Monaco,15,120.94990086622809,60,58,57,1,12,1
+Ocon,Haas,Monaco,16,172.3472675041736,85,54,61,3,17,1
+Russel,Mercedes,Baku,7,79.0759021408061,60,15,18,8,1,1
+Albon,Williams,Imola,27,242.70201658994796,85,8,9,11,18,1
+Verstappen,Red Bull,Suzuka,21,119.57267567197758,81,28,20,9,4,1
+Ocon,Haas,Austin,23,91.87984568964049,5,99,58,4,10,1
+Hadjar,Racing Bulls,Montreal,26,204.34700401588415,79,2,10,1,11,1
+Stroll,Aston Martin,Spa,11,109.86464802187959,88,59,24,0,12,1
+Norris,McLaren,Barcelona,6,79.0916463786697,82,66,4,4,20,1
+Hadjar,Racing Bulls,Melbourne,19,289.17937656630056,30,98,6,7,14,1
+Leclerc,Ferrari,Monza,8,180.1349356982463,92,83,54,9,3,0
+Leclerc,Ferrari,Suzuka,26,223.63422991139313,97,88,55,10,17,1
+Hulkenberg,Sauber,Spa,17,97.28804596646565,10,41,31,8,2,1
+Sainz,Williams,Lusail,19,291.3791973199912,49,51,50,5,20,1
+Lawson,Racing Bulls,Zandvoort,27,112.98060832952588,61,35,53,0,19,1
+Lawson,Racing Bulls,Montreal,3,156.77114189105487,91,50,7,3,7,0
+Norris,McLaren,Imola,0,145.92122355092198,19,77,40,9,15,1
+Russel,Mercedes,Melbourne,18,73.67886907512191,96,17,2,1,19,1
+Norris,McLaren,Abu Dhabi,10,326.3704263265373,67,57,23,11,17,1
+Hadjar,Racing Bulls,Miami,11,168.05485781372593,7,9,21,9,2,0
+Tsunoda,Red Bull Racing,Austin,9,249.316571466208,17,46,19,5,5,0
+Hadjar,Racing Bulls,Miami,7,323.97355776625005,81,28,37,1,6,0
+Stroll,Aston Martin,Zandvoort,13,106.05306890857436,52,35,5,5,9,1
+Albon,Williams,Spa,16,69.61008298945185,13,37,51,7,19,1
+Stroll,Aston Martin,Abu Dhabi,26,212.68240716529417,16,56,29,5,19,1
+Leclerc,Ferrari,Baku,4,127.0682894080784,20,40,48,9,9,1
+Stroll,Aston Martin,Budapest,24,227.75490064313703,70,23,29,0,19,1
+Gasly,Alpine,Austin,4,341.72604064525734,87,99,53,8,4,0
+Hadjar,Racing Bulls,Lusail,15,134.01327840498897,11,16,12,11,15,1
+Antonelli,Mercedes,Shanghai,15,347.1940888660992,23,46,35,0,19,0
+Lawson,Racing Bulls,Suzuka,22,297.03550389815524,84,21,22,11,13,1
+Lawson,Racing Bulls,Las Vegas,23,119.20419770414546,48,20,47,6,15,1
+Hulkenberg,Sauber,Spa,6,155.56803838102283,11,38,37,6,13,1
+Stroll,Aston Martin,Spa,6,266.19348008683653,52,28,52,0,5,0
+Antonelli,Mercedes,Mexico City,20,159.1563197127915,78,91,38,4,9,0
+Hamilton,Ferrari,Singapore,23,236.18572729513562,29,44,23,7,15,1
+Ocon,Haas,Zandvoort,25,256.061835035615,16,24,34,4,20,1
+Norris,McLaren,Imola,15,208.6186848953486,55,70,54,6,9,0
+Russel,Mercedes,Miami,21,125.98066477134424,58,56,50,7,3,1
+Albon,Williams,Las Vegas,4,287.30535881426414,9,56,41,8,19,1
+Hamilton,Ferrari,Melbourne,29,121.4343901730635,15,14,30,3,15,1
+Gasly,Alpine,Barcelona,8,293.35262616146446,34,42,2,0,11,0
+Bearman,Haas,Miami,7,96.39649168364653,18,59,59,11,7,1
+Lawson,Racing Bulls,Austin,1,306.1915967385206,68,51,14,7,6,0
+Norris,McLaren,Barcelona,9,113.64104543366243,33,14,24,1,20,1
+Bearman,Haas,Las Vegas,3,84.27340700834361,2,38,15,1,3,1
+Colapinto,Alpine,Sao Paulo,9,111.34957687799934,72,19,26,8,6,1
+Colapinto,Alpine,Austin,9,136.8240871730948,73,55,4,9,17,1
+Gasly,Alpine,Spa,11,174.85029555017002,91,72,30,10,12,1
+Sainz,Williams,Sao Paulo,28,290.4136787526836,90,76,61,8,5,1
+Russel,Mercedes,Suzuka,29,256.59828306198284,46,66,18,4,8,0
+Verstappen,Red Bull,Silverstone,27,111.57454096944035,13,24,63,7,7,1
+Albon,Williams,Melbourne,23,347.5519713750585,71,61,7,4,4,0
+Antonelli,Mercedes,Sao Paulo,0,311.99059973162537,70,31,1,6,14,1
+Gasly,Alpine,Sao Paulo,3,288.67018310508905,94,25,33,8,11,1
+Verstappen,Red Bull,Spa,14,106.48975358385442,13,94,43,3,18,1
+Leclerc,Ferrari,Baku,6,335.8950422488121,35,88,24,1,11,0
+Hulkenberg,Sauber,Budapest,15,315.8497176830321,16,16,54,8,8,0
+Bearman,Haas,Abu Dhabi,5,99.96680941337283,33,40,32,2,9,1
+Sainz,Williams,Zandvoort,23,173.81905020648162,86,79,56,1,16,1
+Lawson,Racing Bulls,Montreal,6,202.6115401796872,75,14,39,4,3,0
+Sainz,Williams,Baku,1,207.32573744937724,10,38,21,0,1,0
+Alonso,Aston Martin,Zandvoort,1,158.65659477258575,91,74,17,1,13,0
+Stroll,Aston Martin,Silverstone,21,345.19772520920276,60,90,49,11,17,1
+Hulkenberg,Sauber,Mexico City,29,113.22773912951374,64,57,35,9,8,1
+Norris,McLaren,Zandvoort,10,344.54982017057597,91,39,33,5,8,0
+Verstappen,Red Bull,Barcelona,26,203.5071272427875,22,51,32,10,9,1
+Stroll,Aston Martin,Melbourne,9,245.9301102691133,88,2,43,5,16,0
+Norris,McLaren,Mexico City,21,197.42216505647818,67,70,3,10,4,0
+Bearman,Haas,Las Vegas,12,243.46565404661848,73,53,9,9,16,1
+Tsunoda,Red Bull Racing,Spielberg,29,87.25741608342868,30,91,59,9,17,1
+Alonso,Aston Martin,Sao Paulo,9,247.7812823440143,96,34,18,10,20,1
+Lawson,Racing Bulls,Monaco,8,219.06424490594705,98,99,58,4,5,0
+Hadjar,Racing Bulls,Baku,7,157.21378055661071,58,82,54,2,3,0
+Alonso,Aston Martin,Zandvoort,16,221.3428637244351,82,12,50,8,3,0
+Verstappen,Red Bull,Barcelona,9,204.0132893457497,9,89,1,6,3,1
+Russel,Mercedes,Sakhir,23,138.3999427693766,67,31,32,10,8,1
+Albon,Williams,Sao Paulo,3,87.4282868677348,90,92,11,6,17,1
+Antonelli,Mercedes,Zandvoort,4,302.3194842778527,35,95,47,0,4,0
+Sainz,Williams,Abu Dhabi,10,119.64629084933432,7,25,3,10,16,1
+Bearman,Haas,Suzuka,2,102.44392135968135,91,69,32,8,19,1
+Sainz,Williams,Barcelona,22,221.80381937339826,80,64,1,3,12,1
+Antonelli,Mercedes,Monza,12,164.55992186992543,55,28,20,8,11,1
+Antonelli,Mercedes,Shanghai,5,237.30105711942815,84,80,62,6,5,0
+Lawson,Racing Bulls,Suzuka,20,323.0467858434992,24,94,62,7,18,1
+Hulkenberg,Sauber,Zandvoort,22,241.90278321314798,17,59,34,2,9,0
+Alonso,Aston Martin,Las Vegas,2,85.89800627420911,99,31,29,11,14,1
+Stroll,Aston Martin,Shanghai,5,122.49577175533145,44,5,26,9,8,1
+Hadjar,Racing Bulls,Budapest,13,170.2223653703386,75,72,46,4,4,0
+Tsunoda,Red Bull Racing,Spielberg,23,264.03778124403175,45,42,24,2,5,0
+Hamilton,Ferrari,Monza,5,173.75183476171185,68,84,44,1,3,0
+Hamilton,Ferrari,Lusail,1,287.7157674798125,88,87,32,4,8,0
+Gasly,Alpine,Montreal,0,85.28554513298789,86,32,12,11,11,1
+Sainz,Williams,Las Vegas,4,102.50607312579487,91,47,55,11,4,1
+Colapinto,Alpine,Mexico City,15,56.454612999139165,93,54,14,10,15,1
+Sainz,Williams,Zandvoort,8,225.4582182053142,39,12,19,9,15,1
+Norris,McLaren,Baku,27,163.93509578811194,7,37,9,7,12,1
+Hamilton,Ferrari,Lusail,15,202.76544002579635,82,27,36,4,9,0
+Piastri,McLaren,Baku,25,119.38535236163771,8,21,28,4,19,1
+Bortoleto,Sauber,Sakhir,3,310.43441383625304,33,54,46,8,16,1
+Hulkenberg,Sauber,Spa,27,130.51515383825253,52,89,50,10,15,1
+Sainz,Williams,Singapore,16,265.2148558256683,72,42,21,2,19,1
+Russel,Mercedes,Monza,28,346.3688185437437,81,93,44,11,1,1
+Hulkenberg,Sauber,Melbourne,2,261.1895072720906,6,94,16,3,8,0
+Russel,Mercedes,Mexico City,24,290.3688639930891,51,97,52,5,2,0
+Verstappen,Red Bull,Suzuka,28,193.53030598234275,90,0,63,7,9,1
+Russel,Mercedes,Zandvoort,6,263.24400795163666,18,47,62,2,3,0
+Albon,Williams,Melbourne,14,77.19358533955315,82,8,32,6,5,1
+Antonelli,Mercedes,Barcelona,10,170.37729124751712,34,29,49,11,15,1
+Leclerc,Ferrari,Sakhir,12,123.88494299971286,86,44,49,7,10,1
+Stroll,Aston Martin,Spielberg,7,155.39923396091575,32,36,34,4,18,0
+Russel,Mercedes,Miami,14,244.41498899392406,81,71,48,8,20,1
+Bortoleto,Sauber,Zandvoort,16,192.61234486779972,76,87,26,1,10,0
+Stroll,Aston Martin,Singapore,9,232.77387500194143,62,38,58,3,1,0
+Bortoleto,Sauber,Austin,24,63.30710840606617,9,5,37,5,4,1
+Hadjar,Racing Bulls,Imola,21,244.08809886983607,38,18,11,11,14,1
+Alonso,Aston Martin,Zandvoort,27,169.95750382333205,65,46,63,2,9,0
+Piastri,McLaren,Silverstone,19,331.1843745706867,30,94,21,2,7,0
+Lawson,Racing Bulls,Silverstone,12,75.76754324004399,7,76,48,7,12,1
+Ocon,Haas,Imola,26,56.04696763080592,13,90,54,6,1,1
+Bearman,Haas,Silverstone,24,272.30626728064493,61,77,35,9,8,0
+Hulkenberg,Sauber,Spa,4,66.93618050428303,73,80,55,2,4,1
+Tsunoda,Red Bull Racing,Miami,19,142.7585228995066,26,50,47,0,10,1
+Hamilton,Ferrari,Las Vegas,3,246.68622576821343,5,92,11,1,11,1
+Stroll,Aston Martin,Miami,29,80.58339232421996,11,63,31,3,5,1
+Sainz,Williams,Shanghai,1,220.72037008512976,54,39,22,6,20,1
+Lawson,Racing Bulls,Spielberg,19,56.4559018807593,34,1,59,11,8,1
+Hadjar,Racing Bulls,Sakhir,26,121.27539530431356,64,6,22,6,8,1
+Verstappen,Red Bull,Jeddah,6,249.46222834014827,66,67,14,8,3,0
+Colapinto,Alpine,Abu Dhabi,7,326.9663633598862,61,49,23,1,15,0
+Stroll,Aston Martin,Suzuka,22,321.18293049236945,57,13,16,2,2,0
+Hamilton,Ferrari,Singapore,15,192.92755283328222,64,14,45,3,17,0
+Norris,McLaren,Barcelona,18,317.3134367013332,43,66,44,11,16,1
+Antonelli,Mercedes,Montreal,13,125.05155195252586,98,1,9,8,6,1
+Albon,Williams,Miami,25,56.051266586233695,66,50,17,5,9,1
+Piastri,McLaren,Sakhir,13,70.98919131563952,23,37,21,1,18,1
+Lawson,Racing Bulls,Sakhir,13,102.95401224709703,41,7,28,6,3,1
+Lawson,Racing Bulls,Baku,27,224.62173659219715,31,71,2,7,5,1
+Verstappen,Red Bull,Spa,25,348.2352786982758,21,14,62,8,4,0
+Bearman,Haas,Austin,9,74.68375792277844,54,44,34,2,18,1
+Piastri,McLaren,Austin,11,257.9133935462643,19,96,16,0,2,0
+Piastri,McLaren,Miami,0,100.29295542165923,3,12,55,11,18,1
+Hadjar,Racing Bulls,Barcelona,10,240.40518336534788,72,13,20,11,10,0
+Ocon,Haas,Monza,20,192.88066213401018,98,12,64,3,7,0
+Ocon,Haas,Sakhir,28,341.26881594719504,89,81,16,11,7,1
+Piastri,McLaren,Austin,5,104.08726938238965,81,54,60,8,12,1
+Tsunoda,Red Bull Racing,Sao Paulo,18,332.10549316215634,31,42,33,2,9,0
+Bortoleto,Sauber,Miami,12,83.33167975516159,83,55,49,11,3,1
+Hulkenberg,Sauber,Spielberg,1,345.7549420983976,79,80,1,11,12,1
+Russel,Mercedes,Spielberg,14,69.85345523608586,55,15,22,6,14,1
+Norris,McLaren,Monaco,3,187.84825119965208,74,45,29,5,1,0
+Piastri,McLaren,Miami,3,77.07248601900297,74,87,3,3,18,1
+Gasly,Alpine,Lusail,25,51.80873082332917,61,85,5,2,15,1
+Hamilton,Ferrari,Lusail,22,78.12964803582094,97,71,48,11,20,1
+Bearman,Haas,Silverstone,4,115.28822344322755,16,3,18,0,9,1
+Albon,Williams,Spielberg,8,145.517686343038,6,48,13,11,19,1
+Stroll,Aston Martin,Miami,8,129.03389013280915,97,36,26,8,3,1
+Leclerc,Ferrari,Singapore,15,253.4161392916385,25,31,17,5,19,0
+Tsunoda,Red Bull Racing,Miami,12,87.45560683730994,88,6,17,2,5,1
+Lawson,Racing Bulls,Monza,17,232.27872344167355,81,6,39,7,9,0
+Sainz,Williams,Sakhir,12,61.3087188802119,32,59,37,11,14,1
+Russel,Mercedes,Imola,21,130.051435389886,55,39,22,3,15,1
+Sainz,Williams,Spa,9,222.70838192790484,70,12,1,9,20,1
+Albon,Williams,Austin,0,75.88004272268783,0,66,47,5,13,1
+Bortoleto,Sauber,Abu Dhabi,13,323.0647578240513,33,13,28,7,3,0
+Tsunoda,Red Bull Racing,Sakhir,2,89.34461630947021,47,79,57,11,19,1
+Sainz,Williams,Las Vegas,7,305.72407282742336,15,5,15,7,17,1
+Lawson,Racing Bulls,Miami,4,300.6374862616986,91,73,2,5,10,0
+Verstappen,Red Bull,Abu Dhabi,18,132.45605059977973,81,33,11,10,5,1
+Piastri,McLaren,Singapore,11,134.01840010148572,96,40,11,8,13,1
+Albon,Williams,Monza,12,156.6040136703479,3,50,62,2,19,0
+Piastri,McLaren,Abu Dhabi,11,109.71898794241545,17,15,26,9,20,1
+Alonso,Aston Martin,Montreal,5,231.73836241403424,13,7,19,2,2,0
+Gasly,Alpine,Sakhir,22,301.3767689130744,1,17,15,8,9,0
+Hadjar,Racing Bulls,Singapore,23,94.28801866738891,26,99,48,9,15,1
+Stroll,Aston Martin,Shanghai,17,297.6042000260981,81,36,28,8,8,0
+Ocon,Haas,Sakhir,8,323.0869348948863,86,44,18,2,5,0
+Stroll,Aston Martin,Spielberg,16,151.92781226521444,86,29,22,8,1,0
+Tsunoda,Red Bull Racing,Spa,13,250.22347353345677,31,99,2,10,1,0
+Colapinto,Alpine,Monaco,16,53.30648999744266,34,18,38,0,5,1
+Albon,Williams,Spa,13,313.1205658165217,36,40,44,10,11,1
+Hadjar,Racing Bulls,Silverstone,10,260.0499496278721,51,64,35,3,8,0
+Alonso,Aston Martin,Barcelona,24,233.2180500983381,31,76,28,0,17,1
+Antonelli,Mercedes,Monza,23,287.71542519382507,1,59,32,8,7,0
+Norris,McLaren,Spielberg,15,328.7357484456758,29,39,54,6,18,1
+Hamilton,Ferrari,Shanghai,25,53.34843525553743,4,99,37,3,14,1
+Lawson,Racing Bulls,Zandvoort,25,243.11609256389983,96,53,49,4,5,0
+Gasly,Alpine,Sao Paulo,9,253.8431808419015,74,16,11,5,6,0
+Leclerc,Ferrari,Baku,8,318.1468524385052,95,74,56,5,18,0
+Colapinto,Alpine,Spa,11,100.25063845457817,87,51,58,11,15,1
+Hadjar,Racing Bulls,Jeddah,9,140.51762727631814,39,89,37,8,11,1
+Alonso,Aston Martin,Sakhir,19,74.49445082499896,83,55,53,6,14,1
+Leclerc,Ferrari,Singapore,22,213.42793536904463,13,95,11,11,15,1
+Alonso,Aston Martin,Singapore,1,261.98359867488637,41,71,14,2,14,0
+Alonso,Aston Martin,Las Vegas,7,126.83198377779776,31,12,3,6,11,1
+Colapinto,Alpine,Shanghai,25,335.7422043111486,30,25,18,9,7,0
+Sainz,Williams,Montreal,19,232.55299694502838,17,77,43,5,10,0
+Leclerc,Ferrari,Suzuka,17,317.8690392019962,48,58,13,11,9,0
+Ocon,Haas,Jeddah,9,201.4306844811562,35,63,26,5,3,0
+Hadjar,Racing Bulls,Abu Dhabi,18,58.42182835832601,26,75,16,11,16,1
+Leclerc,Ferrari,Abu Dhabi,20,188.35113138813014,15,38,58,0,19,1
+Hulkenberg,Sauber,Sakhir,22,280.0267695126172,4,10,65,3,13,1
+Tsunoda,Red Bull Racing,Baku,1,329.579369508871,71,46,9,2,19,0
+Hamilton,Ferrari,Suzuka,6,288.60835865007977,3,46,43,8,8,0
+Hadjar,Racing Bulls,Montreal,19,202.5665463778859,47,72,28,1,2,0
+Leclerc,Ferrari,Suzuka,28,339.2052026249992,39,25,26,3,3,0
+Alonso,Aston Martin,Suzuka,9,340.6305880870044,86,41,1,9,10,0
+Lawson,Racing Bulls,Monaco,24,191.93386387575003,66,85,18,4,8,0
+Bearman,Haas,Suzuka,6,178.32314494548274,11,42,29,6,2,0
+Hadjar,Racing Bulls,Mexico City,7,221.641643125548,29,79,37,2,16,0
+Bearman,Haas,Abu Dhabi,11,205.43013437264966,22,63,1,1,3,0
+Gasly,Alpine,Suzuka,22,264.55794581684506,25,61,12,4,13,1
+Hamilton,Ferrari,Silverstone,6,186.8925251540505,43,16,4,9,1,0
+Stroll,Aston Martin,Monaco,2,96.9420420951901,75,23,32,3,7,1
+Leclerc,Ferrari,Las Vegas,7,55.159340928657066,41,94,37,3,15,1
+Colapinto,Alpine,Spielberg,26,196.7275796244311,12,81,17,9,19,1
+Verstappen,Red Bull,Spa,12,321.30140225357917,54,83,53,2,14,0
+Albon,Williams,Spielberg,4,325.42499148036745,65,13,6,0,7,0
+Hulkenberg,Sauber,Baku,22,69.00408949287655,85,49,24,2,18,1
+Verstappen,Red Bull,Mexico City,15,310.00839681965175,47,42,26,0,16,0
+Russel,Mercedes,Baku,25,308.0208614459902,43,53,64,0,8,0
+Norris,McLaren,Shanghai,8,308.94028964802794,9,76,47,1,17,1
+Alonso,Aston Martin,Sao Paulo,8,113.13111593106304,97,18,9,5,13,1
+Colapinto,Alpine,Silverstone,21,220.78642488687393,83,47,17,11,20,1
+Hamilton,Ferrari,Jeddah,18,124.92903785476366,57,42,29,1,1,1
+Verstappen,Red Bull,Las Vegas,18,272.0979362056521,18,31,33,4,5,0
+Gasly,Alpine,Zandvoort,11,193.31840563141398,59,60,1,0,2,0
+Bearman,Haas,Barcelona,13,100.14145871897442,69,1,50,0,8,1
+Hadjar,Racing Bulls,Montreal,5,234.30526285186122,1,5,64,5,4,0
+Norris,McLaren,Budapest,5,70.5705059379818,61,75,45,3,8,1
+Alonso,Aston Martin,Miami,6,153.44305373294475,38,57,23,6,3,0
+Bortoleto,Sauber,Monza,13,343.29674888153136,75,80,57,3,12,0
+Bortoleto,Sauber,Las Vegas,10,216.41940219875121,91,89,8,4,6,0
+Albon,Williams,Spielberg,21,274.38526550133406,82,34,34,3,20,1
+Norris,McLaren,Melbourne,16,296.8348608391542,21,90,6,3,3,0
+Antonelli,Mercedes,Sakhir,23,267.3155499634146,59,98,19,5,15,1
+Russel,Mercedes,Shanghai,12,152.64426814260048,81,70,52,10,13,1
+Russel,Mercedes,Mexico City,27,183.06364618541957,64,61,27,7,7,1
+Norris,McLaren,Shanghai,17,73.91427483882956,66,33,19,0,6,1
+Sainz,Williams,Montreal,11,247.472331523842,3,87,60,6,7,1
+Bortoleto,Sauber,Lusail,5,333.47651048252953,60,5,22,11,18,1
+Bearman,Haas,Monaco,11,180.9936289444158,77,55,10,3,7,0
+Ocon,Haas,Suzuka,14,60.910012787206924,71,23,55,9,15,1
+Lawson,Racing Bulls,Spielberg,5,334.50803803278876,87,86,22,9,4,0
+Colapinto,Alpine,Montreal,11,176.47955064729578,90,51,48,1,17,0
+Russel,Mercedes,Sakhir,13,85.62149954522347,68,73,57,10,1,1
+Stroll,Aston Martin,Miami,7,54.73980490141989,97,95,8,0,10,1
+Albon,Williams,Las Vegas,11,107.5366922325597,19,64,59,3,13,1
+Lawson,Racing Bulls,Montreal,27,108.0325535121044,99,11,40,4,14,1
+Tsunoda,Red Bull Racing,Barcelona,19,283.9587671810555,98,4,38,4,3,0
+Hulkenberg,Sauber,Barcelona,29,190.75042867667864,22,53,23,2,5,0
+Tsunoda,Red Bull Racing,Spa,5,294.62396622873877,2,23,52,4,15,0
+Leclerc,Ferrari,Lusail,4,183.91099893971682,95,30,50,6,18,1
+Norris,McLaren,Austin,0,232.26470145532346,92,74,53,7,20,1
+Hulkenberg,Sauber,Imola,11,307.15756263975277,6,65,17,8,11,1
+Hadjar,Racing Bulls,Shanghai,6,223.89303398027317,29,50,26,11,15,1
+Russel,Mercedes,Suzuka,11,256.4510286488515,86,45,20,1,16,0
+Bortoleto,Sauber,Lusail,21,188.61442706734022,44,27,46,3,2,0
+Gasly,Alpine,Monza,10,281.8223654906953,9,93,45,3,16,1
+Bearman,Haas,Sao Paulo,11,324.54686993692246,20,61,8,3,9,0
+Hulkenberg,Sauber,Shanghai,8,141.42638626810336,20,55,33,9,4,1
+Alonso,Aston Martin,Budapest,9,147.74594642820153,37,76,13,10,15,1
+Lawson,Racing Bulls,Mexico City,20,296.54052691432116,22,28,41,7,14,1
+Antonelli,Mercedes,Baku,8,106.67607766262373,86,69,50,0,11,1
+Antonelli,Mercedes,Monaco,9,116.59390821942314,12,73,43,3,5,1
+Bortoleto,Sauber,Suzuka,3,58.05318315581631,4,46,46,9,20,1
+Antonelli,Mercedes,Monza,9,313.94826892506495,13,90,52,0,20,0
+Bearman,Haas,Sakhir,28,151.8603297765923,85,58,18,11,17,1
+Gasly,Alpine,Spielberg,16,255.72896769492053,58,45,60,2,15,1
+Sainz,Williams,Melbourne,25,93.35093448517394,79,48,13,7,5,1
+Antonelli,Mercedes,Monza,25,340.6092129151145,92,60,25,7,3,0
+Tsunoda,Red Bull Racing,Imola,4,228.2723032139982,30,17,59,2,20,0
+Leclerc,Ferrari,Montreal,0,54.463406948658566,9,86,32,6,11,1
+Hamilton,Ferrari,Miami,1,149.12986459334633,46,38,36,5,7,1
+Tsunoda,Red Bull Racing,Zandvoort,17,243.95849492737324,66,95,64,6,20,1
+Alonso,Aston Martin,Budapest,19,198.97722908131075,7,31,62,10,3,0
+Tsunoda,Red Bull Racing,Monaco,26,81.96232698128051,93,17,59,4,17,1
+Tsunoda,Red Bull Racing,Monaco,29,226.19925573573403,92,92,4,9,14,1
+Russel,Mercedes,Budapest,12,169.77666315147272,60,52,41,0,12,0
+Alonso,Aston Martin,Montreal,11,142.81766837273736,9,33,36,5,12,1
+Ocon,Haas,Sakhir,27,315.82625047828407,16,6,48,7,15,1
+Norris,McLaren,Monza,21,340.6963937581903,68,46,60,11,2,0
+Russel,Mercedes,Silverstone,23,258.5185779362909,92,98,29,5,16,1
+Gasly,Alpine,Barcelona,18,203.6238561368115,6,20,52,0,6,0
+Lawson,Racing Bulls,Singapore,12,58.82294409303229,71,79,33,4,19,1
+Hulkenberg,Sauber,Mexico City,9,254.58576360481408,7,2,56,10,7,0
+Lawson,Racing Bulls,Shanghai,6,174.12476631786458,1,51,37,10,8,0
+Russel,Mercedes,Budapest,11,277.743074346279,53,51,3,2,14,0
+Albon,Williams,Jeddah,17,131.32373419785756,87,84,22,4,6,1
+Hulkenberg,Sauber,Budapest,17,192.88763755455264,90,27,13,11,1,0
+Antonelli,Mercedes,Lusail,9,229.6546964351318,98,25,34,9,19,1
+Hulkenberg,Sauber,Miami,23,135.00022966339975,34,61,13,0,7,1
+Tsunoda,Red Bull Racing,Imola,16,252.97014414542812,11,75,11,7,1,0
+Hadjar,Racing Bulls,Singapore,17,217.05562863593155,68,75,22,11,20,1
+Gasly,Alpine,Budapest,11,127.53301558817523,36,29,19,0,19,1
+Hadjar,Racing Bulls,Zandvoort,3,130.162190530154,54,33,23,0,7,1
+Stroll,Aston Martin,Barcelona,26,193.439456847731,8,93,26,10,11,1
+Lawson,Racing Bulls,Lusail,24,253.56404787859614,25,30,64,2,6,0
+Verstappen,Red Bull,Suzuka,13,235.5058914745959,37,23,29,1,4,0
+Albon,Williams,Silverstone,4,300.9578562688189,23,96,11,10,19,1
+Stroll,Aston Martin,Imola,2,340.1937789913242,92,66,55,6,2,0
+Leclerc,Ferrari,Budapest,26,76.97373732319215,90,63,30,8,3,1
+Tsunoda,Red Bull Racing,Las Vegas,28,265.4156031368159,38,8,62,7,11,1
+Lawson,Racing Bulls,Barcelona,21,206.31217602176937,6,87,29,4,18,1
+Gasly,Alpine,Sao Paulo,8,294.63612252652865,46,43,3,3,16,0
+Verstappen,Red Bull,Lusail,23,252.30311734744117,63,93,31,8,6,0
+Stroll,Aston Martin,Barcelona,24,295.2938838190547,99,28,8,10,10,0
+Antonelli,Mercedes,Jeddah,10,326.9208085152538,15,18,51,7,19,1
+Lawson,Racing Bulls,Las Vegas,16,114.67388869146707,58,53,63,4,2,1
+Hulkenberg,Sauber,Suzuka,21,238.7782233265819,13,74,22,3,9,0
+Bearman,Haas,Singapore,1,68.13043026250982,18,53,23,3,17,1
+Stroll,Aston Martin,Jeddah,4,220.29123074654268,21,64,34,2,8,0
+Stroll,Aston Martin,Jeddah,3,89.84810311344894,94,79,22,10,16,1
+Tsunoda,Red Bull Racing,Spa,4,324.0838071415956,12,62,55,7,9,0
+Norris,McLaren,Lusail,2,323.8763789873646,57,33,29,3,3,0
+Lawson,Racing Bulls,Sao Paulo,5,303.6020647483192,90,96,64,1,20,0
+Leclerc,Ferrari,Montreal,10,144.99265068546913,57,1,2,7,4,1
+Leclerc,Ferrari,Budapest,4,227.72386150168245,94,71,34,10,11,1
+Verstappen,Red Bull,Jeddah,28,265.95301959005275,61,73,7,10,11,1
+Bearman,Haas,Barcelona,3,342.3869320136469,7,31,31,6,6,0
+Lawson,Racing Bulls,Sakhir,14,127.87554255687031,90,42,37,3,8,1
+Hulkenberg,Sauber,Shanghai,24,163.7172045615331,18,53,17,4,18,1
+Ocon,Haas,Mexico City,8,105.74374570976815,2,4,56,4,4,1
+Leclerc,Ferrari,Spa,21,290.11638947447557,51,21,11,1,9,0
+Gasly,Alpine,Jeddah,14,152.10446361224612,38,13,51,5,12,0
+Bearman,Haas,Las Vegas,24,78.60118047358922,54,88,6,7,14,1
+Ocon,Haas,Montreal,21,57.888200703825945,99,89,23,3,5,1
+Albon,Williams,Spielberg,7,223.86589201146708,30,25,35,11,17,1
+Verstappen,Red Bull,Shanghai,0,135.73495612663694,25,37,17,1,11,1
+Colapinto,Alpine,Miami,29,91.83133314138837,10,28,36,0,5,1
+Lawson,Racing Bulls,Melbourne,0,66.84754182218565,57,49,33,2,19,1
+Gasly,Alpine,Spa,22,292.1396265053286,96,54,31,5,14,1
+Stroll,Aston Martin,Monza,29,83.80568262377392,12,14,7,10,10,1
+Russel,Mercedes,Montreal,16,124.81321460408788,66,70,49,9,17,1
+Verstappen,Red Bull,Budapest,13,135.29500245340827,14,57,29,8,10,1
+Albon,Williams,Suzuka,6,166.35228705756694,7,23,18,6,1,0
+Verstappen,Red Bull,Budapest,5,65.11159832730381,66,2,56,10,7,1
+Gasly,Alpine,Budapest,6,112.68932255752524,83,86,36,8,20,1
+Leclerc,Ferrari,Lusail,2,138.35178099611727,1,12,17,5,16,1
+Alonso,Aston Martin,Imola,14,75.91530155985673,26,73,18,4,8,1
+Verstappen,Red Bull,Sao Paulo,11,143.68442271166933,50,97,29,5,12,1
+Leclerc,Ferrari,Melbourne,14,72.44333788416546,87,50,27,7,3,1
+Stroll,Aston Martin,Barcelona,22,207.4113177079135,44,40,15,1,2,0
+Verstappen,Red Bull,Silverstone,5,66.57209662304588,76,89,64,3,19,1
+Gasly,Alpine,Monaco,25,119.84819338665028,39,92,50,10,5,1
+Hamilton,Ferrari,Mexico City,26,324.5467532937857,5,46,28,3,12,1
+Colapinto,Alpine,Barcelona,12,298.1627475390941,83,2,59,8,20,1
+Stroll,Aston Martin,Monaco,18,258.03034385765113,68,57,2,6,20,1
+Albon,Williams,Baku,8,122.9261767711789,6,97,11,3,12,1
+Gasly,Alpine,Spielberg,16,214.00039793425287,46,27,17,10,13,1
+Bortoleto,Sauber,Imola,14,281.6973703770491,71,1,3,11,16,1
+Hulkenberg,Sauber,Lusail,20,122.66645674134028,72,83,57,6,18,1
+Leclerc,Ferrari,Budapest,1,198.44725843550663,24,17,40,5,20,0
+Sainz,Williams,Singapore,7,53.44016323989472,27,25,24,4,3,1
+Colapinto,Alpine,Austin,1,345.7392224999398,91,91,15,5,6,0
+Antonelli,Mercedes,Suzuka,26,287.10309419153367,19,56,57,11,7,1
+Sainz,Williams,Zandvoort,17,340.2452357977818,22,10,23,4,13,1
+Stroll,Aston Martin,Abu Dhabi,0,190.45291427214468,67,63,29,3,5,0
+Norris,McLaren,Melbourne,26,333.0286472170716,10,43,52,10,8,1
+Sainz,Williams,Baku,19,146.3353691587508,10,83,10,4,5,1
+Stroll,Aston Martin,Budapest,26,97.31018934319324,68,14,35,8,5,1
+Antonelli,Mercedes,Baku,0,216.8041599606194,5,89,36,5,5,0
+Russel,Mercedes,Sao Paulo,2,87.42333451061593,55,98,1,9,9,1
+Stroll,Aston Martin,Jeddah,25,319.19407743457435,66,93,17,7,2,0
+Ocon,Haas,Melbourne,6,100.1721312244912,19,82,34,9,2,1
+Hadjar,Racing Bulls,Mexico City,21,166.09869038069513,89,92,58,5,3,0
+Leclerc,Ferrari,Montreal,26,213.90990033162137,3,7,19,10,13,1
+Verstappen,Red Bull,Spa,10,301.0459820608918,79,81,65,5,9,0
+Ocon,Haas,Lusail,19,119.17894815664702,41,88,40,2,15,1
+Colapinto,Alpine,Spa,13,240.18175860926672,90,85,51,5,10,0
+Alonso,Aston Martin,Sakhir,8,349.4754088523525,25,58,47,2,17,0
+Gasly,Alpine,Monza,6,315.595711809549,38,78,9,11,17,1
+Antonelli,Mercedes,Baku,24,301.90838344537195,59,1,52,7,4,0
+Bearman,Haas,Austin,18,293.52658654005154,21,78,57,6,17,1
+Bortoleto,Sauber,Miami,19,72.02993348631941,49,63,5,4,14,1
+Colapinto,Alpine,Las Vegas,19,249.49626297540067,19,6,24,1,19,1
+Piastri,McLaren,Mexico City,27,99.48697835942755,17,62,61,1,18,1
+Hadjar,Racing Bulls,Austin,4,57.56748200388638,91,27,53,9,19,1
+Hadjar,Racing Bulls,Silverstone,1,261.91724132430613,96,56,43,9,9,0
+Verstappen,Red Bull,Miami,24,209.49058068643382,38,60,38,1,17,1
+Sainz,Williams,Baku,15,214.93207016190203,92,85,46,8,10,0
+Hamilton,Ferrari,Jeddah,10,51.14284005871564,54,27,2,1,18,1
+Albon,Williams,Suzuka,8,269.31822002763505,23,68,3,6,14,1
+Bearman,Haas,Miami,13,305.0927879322473,98,54,25,10,11,1
+Alonso,Aston Martin,Jeddah,11,169.6613587308965,8,2,62,0,19,0
+Bearman,Haas,Shanghai,20,234.81302761455515,28,65,34,8,19,1
+Antonelli,Mercedes,Montreal,5,73.15988199798515,15,43,13,6,19,1
+Ocon,Haas,Sao Paulo,13,77.69305481501203,99,47,57,2,3,1
+Tsunoda,Red Bull Racing,Budapest,9,206.4714723812146,76,17,12,10,17,1
+Gasly,Alpine,Silverstone,7,342.3689932435549,25,32,27,7,11,1
+Antonelli,Mercedes,Sakhir,26,183.9198513324613,27,6,29,7,4,1
+Verstappen,Red Bull,Jeddah,0,267.3439085841258,50,6,58,1,3,0
+Gasly,Alpine,Budapest,5,187.98444479522698,91,67,30,6,4,0
+Hulkenberg,Sauber,Suzuka,5,342.24677377363804,25,31,47,8,8,0
+Bortoleto,Sauber,Mexico City,27,309.64097562105917,60,86,6,10,15,1
+Gasly,Alpine,Barcelona,15,103.02848115638751,35,45,9,9,3,1
+Hadjar,Racing Bulls,Suzuka,11,273.84872701043525,9,91,11,0,1,0
+Piastri,McLaren,Singapore,4,257.08054153706865,13,22,40,7,20,1
+Lawson,Racing Bulls,Miami,11,114.05440338643655,36,62,18,5,18,1
+Gasly,Alpine,Austin,21,106.26381327710271,38,73,48,6,17,1
+Ocon,Haas,Sao Paulo,17,307.92372279469635,8,14,44,6,17,1
+Hulkenberg,Sauber,Melbourne,12,166.48958804869199,64,98,4,11,13,1
+Verstappen,Red Bull,Budapest,25,191.45658049971811,6,39,53,3,20,1
+Albon,Williams,Monza,6,245.37227457573925,41,22,30,10,15,1
+Russel,Mercedes,Sakhir,18,304.24197482542013,89,4,34,1,12,1
+Hadjar,Racing Bulls,Melbourne,16,238.53539304816954,1,39,54,7,4,0
+Bortoleto,Sauber,Barcelona,3,192.7059412298429,96,91,15,5,14,0
+Bortoleto,Sauber,Montreal,17,78.87015833865654,73,97,62,11,3,1
+Leclerc,Ferrari,Spielberg,8,173.49934882889798,29,74,14,11,19,1
+Russel,Mercedes,Baku,6,234.44196410668283,57,36,60,8,13,1
+Leclerc,Ferrari,Austin,16,221.69990222066897,49,50,11,9,11,1
+Colapinto,Alpine,Suzuka,26,111.33262024240439,95,70,9,2,16,1
+Stroll,Aston Martin,Abu Dhabi,19,141.5480918969979,14,59,37,2,14,1
+Bortoleto,Sauber,Abu Dhabi,27,260.95509827765414,95,13,54,4,17,1
+Albon,Williams,Montreal,6,205.19489247168903,30,71,23,6,16,1
+Hulkenberg,Sauber,Singapore,22,318.02944752087393,3,52,30,2,18,1
+Piastri,McLaren,Monza,2,208.94352138723798,49,36,9,9,8,0
+Ocon,Haas,Monza,20,306.0530983594548,79,47,56,2,12,1
+Russel,Mercedes,Sakhir,28,145.6442429074698,23,68,36,3,17,1
+Verstappen,Red Bull,Spielberg,6,254.03423378404722,62,13,56,7,17,1
+Albon,Williams,Sakhir,14,87.21039802911606,45,92,40,3,17,1
+Bortoleto,Sauber,Austin,24,347.0794110179778,92,99,2,7,8,0
+Colapinto,Alpine,Jeddah,19,275.61385643720865,72,50,4,7,18,1
+Hamilton,Ferrari,Imola,2,84.30461238376758,89,33,38,10,7,1
+Antonelli,Mercedes,Miami,22,291.9323504798395,59,49,23,6,14,1
+Alonso,Aston Martin,Jeddah,10,83.4807083614525,82,61,31,3,12,1
+Bortoleto,Sauber,Suzuka,16,296.34940411454585,90,33,22,4,5,0
+Antonelli,Mercedes,Miami,2,333.4493884140575,86,29,35,8,13,1
+Gasly,Alpine,Sakhir,4,58.970282105407875,26,44,27,8,18,1
+Verstappen,Red Bull,Austin,15,140.96267088250818,52,49,28,2,10,1
+Tsunoda,Red Bull Racing,Singapore,9,210.59859755005925,84,47,10,11,20,1
+Tsunoda,Red Bull Racing,Melbourne,27,270.6870432266178,59,34,45,11,3,1
+Lawson,Racing Bulls,Montreal,1,79.80916085283963,26,30,25,5,7,1
+Hamilton,Ferrari,Spielberg,3,154.65914213326042,2,81,21,1,20,1
+Piastri,McLaren,Austin,24,168.12050163923644,1,60,63,6,18,1
+Piastri,McLaren,Imola,24,258.9234719454763,83,75,21,10,4,0
+Bortoleto,Sauber,Singapore,6,240.83235635256736,42,34,65,7,19,1
+Piastri,McLaren,Mexico City,18,66.60670804477006,91,86,49,5,15,1
+Bortoleto,Sauber,Monaco,3,273.59719743631814,42,27,64,0,11,0
+Norris,McLaren,Abu Dhabi,15,175.8557039745851,91,94,52,5,17,0
+Piastri,McLaren,Sakhir,2,191.61818595649652,97,70,53,7,7,0
+Albon,Williams,Zandvoort,18,236.03340585015792,61,61,51,11,9,0
+Lawson,Racing Bulls,Sao Paulo,25,232.22118250354308,85,35,51,6,11,1
+Tsunoda,Red Bull Racing,Miami,0,237.76145657879272,93,88,23,2,16,0
+Verstappen,Red Bull,Singapore,19,275.9239671201349,14,96,11,0,7,0
+Stroll,Aston Martin,Lusail,13,59.88775795092798,37,37,10,9,20,1
+Antonelli,Mercedes,Sakhir,27,158.15013918661518,57,64,46,7,14,1
+Alonso,Aston Martin,Las Vegas,16,325.43169421826434,22,55,42,0,18,1
+Ocon,Haas,Las Vegas,20,261.34283358749735,5,5,54,9,7,0
+Tsunoda,Red Bull Racing,Mexico City,11,128.56583753633896,46,88,8,0,14,1
+Tsunoda,Red Bull Racing,Mexico City,15,218.31020958247112,62,37,43,8,15,1
+Colapinto,Alpine,Barcelona,5,78.38123110194626,53,14,17,9,19,1
+Hamilton,Ferrari,Sakhir,11,262.41571354147703,45,10,41,3,17,0
+Colapinto,Alpine,Austin,2,82.77934810548469,20,32,46,4,11,1
+Leclerc,Ferrari,Las Vegas,5,253.63232074336224,21,3,38,8,2,0
+Hulkenberg,Sauber,Mexico City,25,104.0362529822019,14,94,3,1,7,1
+Alonso,Aston Martin,Melbourne,2,100.09286621266762,25,87,48,8,15,1
+Norris,McLaren,Sao Paulo,12,282.126823756315,49,75,26,3,16,0
+Bearman,Haas,Abu Dhabi,11,50.955445031706816,76,12,33,5,2,1
+Russel,Mercedes,Austin,13,121.26576099856118,77,25,18,7,1,1
+Colapinto,Alpine,Monza,20,275.7819273890365,44,50,3,4,11,1
+Antonelli,Mercedes,Melbourne,4,285.04097645984893,98,53,20,9,4,0
+Bortoleto,Sauber,Silverstone,6,311.27057630511626,6,6,28,10,15,1
+Albon,Williams,Zandvoort,26,116.17507026482593,44,83,65,0,8,1
+Bortoleto,Sauber,Silverstone,25,56.629937410623256,2,66,1,8,16,1
+Verstappen,Red Bull,Spielberg,4,240.14537387078877,19,86,16,6,15,1
+Lawson,Racing Bulls,Monza,7,188.23973258902393,63,43,30,1,17,0
+Bearman,Haas,Spielberg,26,247.85976290803126,68,75,20,3,15,1
+Russel,Mercedes,Baku,6,143.78061854811023,5,74,26,9,2,1
+Norris,McLaren,Monza,4,234.59836042278593,36,67,24,3,5,0
+Bearman,Haas,Mexico City,1,285.3627752925649,75,82,48,2,12,0
+Gasly,Alpine,Shanghai,7,181.6913182586879,7,74,10,7,19,1
+Leclerc,Ferrari,Imola,18,57.277249716727574,39,68,57,10,18,1
+Albon,Williams,Baku,22,54.21616894581058,6,87,58,5,4,1
+Piastri,McLaren,Zandvoort,24,85.72541156348359,72,6,35,3,16,1
+Antonelli,Mercedes,Budapest,14,294.36885667657197,48,14,16,6,19,1
+Alonso,Aston Martin,Montreal,3,187.9856955079132,28,38,13,9,12,1
+Ocon,Haas,Budapest,26,114.77483057871277,96,37,60,4,8,1
+Russel,Mercedes,Jeddah,13,159.3258296506476,69,61,60,0,17,0
+Tsunoda,Red Bull Racing,Spielberg,3,278.57831391542624,2,17,49,5,12,0
+Antonelli,Mercedes,Lusail,27,96.76818689208933,72,51,20,9,20,1
+Hadjar,Racing Bulls,Shanghai,0,198.73133519739915,84,79,57,8,13,1
+Russel,Mercedes,Barcelona,10,288.30465539451967,48,31,33,9,7,0
+Lawson,Racing Bulls,Miami,14,349.57103833095425,27,82,15,11,15,1
+Tsunoda,Red Bull Racing,Monza,16,277.75954333610383,87,40,48,5,2,0
+Sainz,Williams,Lusail,11,76.66201957413908,83,34,45,0,3,1
+Hadjar,Racing Bulls,Imola,11,296.35408980534135,63,64,9,10,10,0
+Leclerc,Ferrari,Montreal,22,145.4460545887251,85,32,9,8,17,1
+Sainz,Williams,Lusail,5,342.7043396006433,81,90,49,1,13,0
+Leclerc,Ferrari,Monza,19,290.5158378284678,62,24,11,5,2,0
+Hamilton,Ferrari,Monza,18,159.6548381148362,36,35,60,8,8,0
+Gasly,Alpine,Miami,7,250.99700071046254,99,57,6,3,16,0
+Hulkenberg,Sauber,Miami,16,205.27749286567385,52,92,65,6,7,0
+Norris,McLaren,Monaco,15,111.62017590154008,89,11,39,1,3,1
+Colapinto,Alpine,Sao Paulo,25,154.48648899110722,46,62,6,7,9,0
+Piastri,McLaren,Baku,27,285.04796073132286,38,77,37,7,10,1
+Bortoleto,Sauber,Las Vegas,18,198.256204837956,65,61,33,1,14,1
+Piastri,McLaren,Monza,1,170.36180203025506,44,38,55,10,16,1
+Leclerc,Ferrari,Austin,11,222.79840686636373,36,81,3,5,13,0
+Piastri,McLaren,Montreal,7,246.78650605289448,34,35,1,9,4,0
+Ocon,Haas,Sao Paulo,0,104.67172794855861,92,18,46,2,2,1
+Ocon,Haas,Jeddah,28,212.18740517180294,46,12,65,7,9,1
+Ocon,Haas,Monaco,24,70.53206639711003,76,80,59,4,3,1
+Stroll,Aston Martin,Sakhir,9,158.2359928679828,87,84,27,3,3,0
+Ocon,Haas,Zandvoort,27,273.12340221919766,57,15,37,5,3,0
+Albon,Williams,Lusail,24,342.2968243877002,87,72,3,3,12,1
+Colapinto,Alpine,Sakhir,20,129.46634545970264,84,77,65,3,14,1
+Piastri,McLaren,Jeddah,9,268.1007019204119,20,24,17,2,18,0
+Antonelli,Mercedes,Monaco,0,237.51433777483712,35,74,7,1,9,0
+Hulkenberg,Sauber,Melbourne,29,54.495375472889485,94,80,14,6,14,1
+Gasly,Alpine,Suzuka,4,169.60026213413664,58,79,41,9,7,0
+Stroll,Aston Martin,Silverstone,27,231.2810957210252,42,76,56,1,19,1
+Hulkenberg,Sauber,Monaco,24,317.22755718183544,6,46,46,7,7,0
+Stroll,Aston Martin,Lusail,5,188.22513288616088,44,43,30,4,3,0
+Sainz,Williams,Austin,28,115.33725634552792,87,76,32,6,10,1
+Antonelli,Mercedes,Singapore,10,233.2630130187656,47,8,8,11,8,0
+Verstappen,Red Bull,Zandvoort,28,280.44155222105843,84,66,47,3,8,0
+Ocon,Haas,Montreal,1,125.35517692870175,98,57,14,7,19,1
+Piastri,McLaren,Austin,6,173.45492802462942,52,5,10,10,18,1
+Ocon,Haas,Budapest,2,186.3473485937284,23,29,13,9,5,0
+Bearman,Haas,Imola,3,123.91277362862925,62,57,58,0,6,1
+Leclerc,Ferrari,Sakhir,19,113.46996280391696,66,43,15,10,20,1
+Bearman,Haas,Las Vegas,4,278.68109978275504,28,84,27,4,18,0
+Hulkenberg,Sauber,Sakhir,5,132.29479222707542,44,54,59,7,2,1
+Tsunoda,Red Bull Racing,Spielberg,13,187.28177676235376,46,10,8,6,4,0
+Bearman,Haas,Montreal,9,324.01900346070295,62,23,24,7,9,0
+Norris,McLaren,Suzuka,23,270.98843611309525,47,63,2,11,19,1
+Gasly,Alpine,Imola,29,195.75138751198483,85,65,25,7,16,1
+Bearman,Haas,Las Vegas,28,61.589284843836566,16,1,59,2,1,1
+Bearman,Haas,Las Vegas,2,318.24822252293984,71,69,10,6,16,1
+Russel,Mercedes,Monaco,10,100.072333712079,79,62,37,0,5,1
+Leclerc,Ferrari,Sao Paulo,17,172.15335325318992,58,78,61,8,10,0
+Colapinto,Alpine,Miami,7,58.62135576008761,48,91,62,7,17,1
+Sainz,Williams,Mexico City,13,99.53311784293224,59,26,12,8,8,1
+Antonelli,Mercedes,Abu Dhabi,28,220.36455681657557,0,22,45,8,6,1
+Stroll,Aston Martin,Miami,0,325.3761335426801,38,13,32,8,7,0
+Colapinto,Alpine,Zandvoort,8,88.1467202910731,85,73,39,6,3,1
+Stroll,Aston Martin,Montreal,20,131.70392422339867,56,81,16,6,7,1
+Tsunoda,Red Bull Racing,Sao Paulo,18,215.59668391794116,75,32,64,5,5,0
+Ocon,Haas,Sao Paulo,21,122.49343709973441,70,37,14,4,16,1
+Bortoleto,Sauber,Miami,27,273.5568083147324,16,9,57,8,18,1
+Tsunoda,Red Bull Racing,Silverstone,14,252.75433735985484,60,96,13,4,13,0
+Lawson,Racing Bulls,Abu Dhabi,20,227.65489242798682,99,81,52,2,13,1
+Gasly,Alpine,Las Vegas,1,254.65066377547174,51,96,32,5,10,0
+Lawson,Racing Bulls,Baku,21,344.0651308115966,46,86,40,5,11,1
+Norris,McLaren,Miami,17,198.17268991049346,13,73,17,2,6,0
+Norris,McLaren,Abu Dhabi,3,112.91929419882449,14,83,37,8,19,1
+Bortoleto,Sauber,Barcelona,3,192.7059412298429,96,91,15,5,14,0
+Norris,McLaren,Zandvoort,10,344.54982017057597,91,39,33,5,8,0
+Colapinto,Alpine,Spa,13,240.18175860926672,90,85,51,5,10,0
+Hamilton,Ferrari,Melbourne,20,157.09893520126766,23,67,57,3,7,0
+Tsunoda,Red Bull Racing,Austin,9,249.316571466208,17,46,19,5,5,0
+Sainz,Williams,Mexico City,0,316.0571126783777,84,57,6,3,8,0
+Lawson,Racing Bulls,Lusail,24,253.56404787859614,25,30,64,2,6,0
+Albon,Williams,Mexico City,17,177.63981034786838,55,77,24,9,10,0
+Stroll,Aston Martin,Shanghai,17,297.6042000260981,81,36,28,8,8,0
+Bortoleto,Sauber,Abu Dhabi,13,323.0647578240513,33,13,28,7,3,0
+Gasly,Alpine,Baku,19,323.9225903959371,66,31,52,1,8,0
+Gasly,Alpine,Barcelona,8,293.35262616146446,34,42,2,0,11,0
+Hadjar,Racing Bulls,Melbourne,4,188.18465511663968,4,7,39,11,9,0
+Antonelli,Mercedes,Shanghai,15,347.1940888660992,23,46,35,0,19,0
+Colapinto,Alpine,Silverstone,13,164.90765896407459,47,21,18,3,18,0
+Alonso,Aston Martin,Abu Dhabi,14,217.44631214179617,62,96,44,1,1,0
+Hulkenberg,Sauber,Miami,16,205.27749286567385,52,92,65,6,7,0
+Tsunoda,Red Bull Racing,Barcelona,19,283.9587671810555,98,4,38,4,3,0
+Hamilton,Ferrari,Abu Dhabi,9,286.9819201752789,34,34,44,0,14,0
+Russel,Mercedes,Barcelona,3,216.83815845390401,46,68,3,3,15,0
+Hadjar,Racing Bulls,Miami,1,271.17931990915173,57,8,15,2,11,0
+Hadjar,Racing Bulls,Spielberg,19,195.57227495076756,18,96,32,7,7,0
+Gasly,Alpine,Miami,7,250.99700071046254,99,57,6,3,16,0
+Bortoleto,Sauber,Spa,3,306.7382340759496,53,24,9,4,7,0
+Norris,McLaren,Zandvoort,25,245.08770510978857,7,51,43,4,3,0
+Lawson,Racing Bulls,Lusail,24,253.56404787859614,25,30,64,2,6,0
+Bearman,Haas,Monaco,11,180.9936289444158,77,55,10,3,7,0
+Hadjar,Racing Bulls,Barcelona,22,201.2661866926894,34,95,53,4,2,0
+Hulkenberg,Sauber,Las Vegas,19,263.99069131774377,53,70,36,0,6,0
+Lawson,Racing Bulls,Sao Paulo,5,303.6020647483192,90,96,64,1,20,0
+Hamilton,Ferrari,Montreal,12,322.5774304702516,13,69,37,2,12,0
+Hadjar,Racing Bulls,Baku,14,174.51071035282018,29,57,19,5,15,0
+Hamilton,Ferrari,Silverstone,6,186.8925251540505,43,16,4,9,1,0
+Piastri,McLaren,Mexico City,11,202.08430610488244,93,34,49,2,18,0
+Russel,Mercedes,Budapest,12,169.77666315147272,60,52,41,0,12,0
+Verstappen,Red Bull,Jeddah,11,290.52271470418646,88,57,38,7,5,0
+Hulkenberg,Sauber,Sakhir,2,222.73911295389192,12,3,25,9,7,0
+Piastri,McLaren,Lusail,14,306.7206596773299,15,35,20,9,2,0
+Lawson,Racing Bulls,Shanghai,6,174.12476631786458,1,51,37,10,8,0
+Albon,Williams,Silverstone,12,224.75208991706143,43,5,44,10,3,0
+Alonso,Aston Martin,Zandvoort,16,221.3428637244351,82,12,50,8,3,0
+Bortoleto,Sauber,Monza,13,343.29674888153136,75,80,57,3,12,0
+Stroll,Aston Martin,Miami,0,325.3761335426801,38,13,32,8,7,0
+Hadjar,Racing Bulls,Melbourne,16,238.53539304816954,1,39,54,7,4,0
+Piastri,McLaren,Monaco,12,195.3547393933554,77,36,58,0,11,0
+Hadjar,Racing Bulls,Mexico City,7,221.641643125548,29,79,37,2,16,0
+Albon,Williams,Silverstone,12,224.75208991706143,43,5,44,10,3,0
+Norris,McLaren,Monaco,3,187.84825119965208,74,45,29,5,1,0
+Colapinto,Alpine,Singapore,13,223.86225800171044,55,30,55,8,5,0
+Verstappen,Red Bull,Jeddah,11,290.52271470418646,88,57,38,7,5,0
+Hulkenberg,Sauber,Austin,6,241.22047694837332,3,22,6,7,5,0
+Gasly,Alpine,Suzuka,4,285.6312439997663,16,49,32,3,7,0
+Lawson,Racing Bulls,Miami,4,300.6374862616986,91,73,2,5,10,0
+Hamilton,Ferrari,Monaco,4,288.5285335313602,50,74,1,1,17,0
+Verstappen,Red Bull,Shanghai,22,270.1145650602706,81,16,28,6,7,0
+Ocon,Haas,Mexico City,10,313.6741462132087,14,43,22,6,2,0
+Hulkenberg,Sauber,Sakhir,2,222.73911295389192,12,3,25,9,7,0
+Hulkenberg,Sauber,Las Vegas,19,263.99069131774377,53,70,36,0,6,0
+Leclerc,Ferrari,Shanghai,12,202.88012400771984,86,26,32,2,8,0
+Colapinto,Alpine,Spa,13,240.18175860926672,90,85,51,5,10,0
+Verstappen,Red Bull,Jeddah,11,290.52271470418646,88,57,38,7,5,0
+Antonelli,Mercedes,Monaco,0,237.51433777483712,35,74,7,1,9,0
+Alonso,Aston Martin,Sakhir,8,349.4754088523525,25,58,47,2,17,0
+Norris,McLaren,Suzuka,22,319.23849848588577,44,69,39,5,7,0
+Stroll,Aston Martin,Lusail,5,188.22513288616088,44,43,30,4,3,0
+Norris,McLaren,Miami,17,198.17268991049346,13,73,17,2,6,0
+Stroll,Aston Martin,Melbourne,9,245.9301102691133,88,2,43,5,16,0
+Lawson,Racing Bulls,Austin,21,258.29064042609554,32,49,17,9,1,0
+Hamilton,Ferrari,Silverstone,6,186.8925251540505,43,16,4,9,1,0
+Stroll,Aston Martin,Spielberg,16,151.92781226521444,86,29,22,8,1,0
+Sainz,Williams,Baku,1,207.32573744937724,10,38,21,0,1,0
+Hulkenberg,Sauber,Budapest,17,192.88763755455264,90,27,13,11,1,0
+Leclerc,Ferrari,Budapest,1,198.44725843550663,24,17,40,5,20,0
+Lawson,Racing Bulls,Sao Paulo,5,303.6020647483192,90,96,64,1,20,0
+Russel,Mercedes,Baku,25,308.0208614459902,43,53,64,0,8,0
+Bortoleto,Sauber,Abu Dhabi,13,323.0647578240513,33,13,28,7,3,0
+Alonso,Aston Martin,Shanghai,26,198.8916441455033,50,88,41,0,9,0
+Antonelli,Mercedes,Melbourne,4,285.04097645984893,98,53,20,9,4,0
+Stroll,Aston Martin,Shanghai,17,297.6042000260981,81,36,28,8,8,0
+Leclerc,Ferrari,Singapore,15,253.4161392916385,25,31,17,5,19,0
+Lawson,Racing Bulls,Las Vegas,22,336.18569190093683,97,21,21,10,2,0
+Russel,Mercedes,Barcelona,5,315.33144890943385,89,89,47,3,4,0
+Tsunoda,Red Bull Racing,Imola,4,228.2723032139982,30,17,59,2,20,0
+Norris,McLaren,Suzuka,22,319.23849848588577,44,69,39,5,7,0
+Gasly,Alpine,Sao Paulo,13,173.1375952331582,27,42,25,8,3,0
+Hadjar,Racing Bulls,Miami,1,271.17931990915173,57,8,15,2,11,0
+Stroll,Aston Martin,Miami,0,325.3761335426801,38,13,32,8,7,0
+Colapinto,Alpine,Mexico City,26,164.37555108455405,4,8,29,0,8,0
+Hadjar,Racing Bulls,Miami,11,168.05485781372593,7,9,21,9,2,0
+Hulkenberg,Sauber,Miami,16,205.27749286567385,52,92,65,6,7,0
+Hadjar,Racing Bulls,Baku,14,174.51071035282018,29,57,19,5,15,0
+Leclerc,Ferrari,Baku,8,318.1468524385052,95,74,56,5,18,0
+Albon,Williams,Spielberg,4,325.42499148036745,65,13,6,0,7,0
+Hulkenberg,Sauber,Austin,6,241.22047694837332,3,22,6,7,5,0
+Antonelli,Mercedes,Mexico City,14,289.8608850685886,22,45,4,11,4,0
+Bearman,Haas,Mexico City,1,285.3627752925649,75,82,48,2,12,0
+Lawson,Racing Bulls,Montreal,4,228.6764859117858,7,34,30,7,1,0
+Alonso,Aston Martin,Sao Paulo,21,306.551293685899,44,82,20,2,2,0
+Hamilton,Ferrari,Lusail,15,202.76544002579635,82,27,36,4,9,0
+Hulkenberg,Sauber,Spa,0,306.2416603058352,56,26,30,2,19,0
+Hadjar,Racing Bulls,Zandvoort,27,337.21434848381296,29,99,26,0,2,0
+Russel,Mercedes,Zandvoort,25,312.05672523836347,65,34,36,3,6,0
+Hadjar,Racing Bulls,Montreal,4,331.1481974780394,42,48,32,3,4,0
+Hadjar,Racing Bulls,Baku,7,157.21378055661071,58,82,54,2,3,0
+Alonso,Aston Martin,Miami,6,153.44305373294475,38,57,23,6,3,0
+Antonelli,Mercedes,Mexico City,14,289.8608850685886,22,45,4,11,4,0
+Bearman,Haas,Sao Paulo,11,324.54686993692246,20,61,8,3,9,0
+Verstappen,Red Bull,Singapore,19,275.9239671201349,14,96,11,0,7,0
+Norris,McLaren,Monaco,3,187.84825119965208,74,45,29,5,1,0
+Hadjar,Racing Bulls,Spa,0,227.14608539435628,45,5,40,1,6,0
+Russel,Mercedes,Zandvoort,6,263.24400795163666,18,47,62,2,3,0
+Alonso,Aston Martin,Zandvoort,1,158.65659477258575,91,74,17,1,13,0
+Norris,McLaren,Zandvoort,10,344.54982017057597,91,39,33,5,8,0
+Tsunoda,Red Bull Racing,Miami,0,237.76145657879272,93,88,23,2,16,0
+Bearman,Haas,Suzuka,5,321.527300371242,61,3,7,1,6,0
+Norris,McLaren,Zandvoort,10,344.54982017057597,91,39,33,5,8,0
+Sainz,Williams,Austin,10,170.70789518913605,10,8,52,11,5,0
+Hamilton,Ferrari,Montreal,12,322.5774304702516,13,69,37,2,12,0
+Antonelli,Mercedes,Shanghai,15,347.1940888660992,23,46,35,0,19,0
+Gasly,Alpine,Suzuka,11,229.16655476447704,37,87,17,2,18,0
+Lawson,Racing Bulls,Sakhir,14,317.2199582333333,13,38,21,9,5,0
+Colapinto,Alpine,Mexico City,26,164.37555108455405,4,8,29,0,8,0
+Norris,McLaren,Budapest,15,296.3131123917796,21,95,56,7,8,0
+Hadjar,Racing Bulls,Lusail,11,200.86215124275176,67,95,32,3,8,0
+Bortoleto,Sauber,Las Vegas,16,344.57428085212956,75,3,12,6,8,0
+Gasly,Alpine,Sao Paulo,13,173.1375952331582,27,42,25,8,3,0
+Hamilton,Ferrari,Monza,5,173.75183476171185,68,84,44,1,3,0
+Norris,McLaren,Jeddah,5,286.17375644169,46,74,27,4,12,0
+Antonelli,Mercedes,Spa,11,296.1738952233402,55,60,50,10,5,0
+Hulkenberg,Sauber,Mexico City,9,254.58576360481408,7,2,56,10,7,0
+Hadjar,Racing Bulls,Silverstone,1,261.91724132430613,96,56,43,9,9,0
+Verstappen,Red Bull,Spa,10,301.0459820608918,79,81,65,5,9,0
+Gasly,Alpine,Budapest,5,187.98444479522698,91,67,30,6,4,0
+Sainz,Williams,Shanghai,14,181.90559099343898,54,36,65,1,8,0
+Ocon,Haas,Jeddah,9,201.4306844811562,35,63,26,5,3,0
+Albon,Williams,Abu Dhabi,24,290.86117086664086,27,45,60,2,10,0
+Hadjar,Racing Bulls,Montreal,19,202.5665463778859,47,72,28,1,2,0
+Russel,Mercedes,Suzuka,29,256.59828306198284,46,66,18,4,8,0
+Hadjar,Racing Bulls,Miami,11,168.05485781372593,7,9,21,9,2,0
+Stroll,Aston Martin,Melbourne,9,245.9301102691133,88,2,43,5,16,0
+Colapinto,Alpine,Austin,1,345.7392224999398,91,91,15,5,6,0
+Russel,Mercedes,Singapore,1,348.8571503269527,47,95,51,8,10,0
+Albon,Williams,Mexico City,17,177.63981034786838,55,77,24,9,10,0
+Verstappen,Red Bull,Spielberg,16,263.354670138718,54,33,50,6,10,0
+Hulkenberg,Sauber,Budapest,17,192.88763755455264,90,27,13,11,1,0
+Verstappen,Red Bull,Mexico City,15,310.00839681965175,47,42,26,0,16,0
+Alonso,Aston Martin,Sao Paulo,18,217.57245498422168,75,80,61,8,4,0
+Hulkenberg,Sauber,Budapest,17,192.88763755455264,90,27,13,11,1,0
+Hadjar,Racing Bulls,Montreal,4,331.1481974780394,42,48,32,3,4,0
+Stroll,Aston Martin,Singapore,9,232.77387500194143,62,38,58,3,1,0
+Alonso,Aston Martin,Abu Dhabi,14,217.44631214179617,62,96,44,1,1,0
+Ocon,Haas,Zandvoort,27,273.12340221919766,57,15,37,5,3,0
+Hadjar,Racing Bulls,Melbourne,4,188.18465511663968,4,7,39,11,9,0
+Gasly,Alpine,Barcelona,18,203.6238561368115,6,20,52,0,6,0
+Alonso,Aston Martin,Melbourne,12,234.27709989997103,93,15,28,11,3,0
+Colapinto,Alpine,Silverstone,13,164.90765896407459,47,21,18,3,18,0
+Russel,Mercedes,Barcelona,10,288.30465539451967,48,31,33,9,7,0
+Colapinto,Alpine,Abu Dhabi,7,326.9663633598862,61,49,23,1,15,0
+Bearman,Haas,Suzuka,3,280.0907701252555,46,77,51,6,3,0
+Lawson,Racing Bulls,Miami,4,300.6374862616986,91,73,2,5,10,0
+Hamilton,Ferrari,Montreal,12,322.5774304702516,13,69,37,2,12,0
+Leclerc,Ferrari,Singapore,15,253.4161392916385,25,31,17,5,19,0
+Albon,Williams,Monza,12,156.6040136703479,3,50,62,2,19,0
+Verstappen,Red Bull,Spa,25,348.2352786982758,21,14,62,8,4,0
+Gasly,Alpine,Baku,19,251.9970564864821,63,11,26,4,7,0
+Bortoleto,Sauber,Abu Dhabi,13,323.0647578240513,33,13,28,7,3,0
+Bearman,Haas,Las Vegas,4,278.68109978275504,28,84,27,4,18,0
+Lawson,Racing Bulls,Montreal,3,156.77114189105487,91,50,7,3,7,0
+Ocon,Haas,Baku,1,206.06117132068582,71,51,19,2,17,0
+Verstappen,Red Bull,Shanghai,22,270.1145650602706,81,16,28,6,7,0
+Norris,McLaren,Lusail,2,323.8763789873646,57,33,29,3,3,0
+Stroll,Aston Martin,Baku,12,178.84576864411105,89,38,32,1,4,0
+Hamilton,Ferrari,Lusail,15,202.76544002579635,82,27,36,4,9,0
+Hamilton,Ferrari,Suzuka,6,288.60835865007977,3,46,43,8,8,0
+Russel,Mercedes,Baku,25,308.0208614459902,43,53,64,0,8,0
+Hadjar,Racing Bulls,Budapest,13,170.2223653703386,75,72,46,4,4,0
+Russel,Mercedes,Budapest,11,277.743074346279,53,51,3,2,14,0
+Lawson,Racing Bulls,Monaco,24,191.93386387575003,66,85,18,4,8,0
+Colapinto,Alpine,Singapore,13,223.86225800171044,55,30,55,8,5,0
+Stroll,Aston Martin,Austin,29,258.7524858895086,13,72,14,3,2,0
+Colapinto,Alpine,Spa,13,240.18175860926672,90,85,51,5,10,0
+Verstappen,Red Bull,Mexico City,15,310.00839681965175,47,42,26,0,16,0
+Gasly,Alpine,Las Vegas,21,237.46415167397836,43,16,47,2,5,0
+Piastri,McLaren,Monza,2,208.94352138723798,49,36,9,9,8,0
+Gasly,Alpine,Suzuka,4,169.60026213413664,58,79,41,9,7,0
+Leclerc,Ferrari,Shanghai,12,202.88012400771984,86,26,32,2,8,0
+Hadjar,Racing Bulls,Zandvoort,27,337.21434848381296,29,99,26,0,2,0
+Lawson,Racing Bulls,Austin,21,258.29064042609554,32,49,17,9,1,0
+Antonelli,Mercedes,Melbourne,4,285.04097645984893,98,53,20,9,4,0
+Bearman,Haas,Barcelona,3,342.3869320136469,7,31,31,6,6,0
+Alonso,Aston Martin,Budapest,19,198.97722908131075,7,31,62,10,3,0
+Piastri,McLaren,Jeddah,9,268.1007019204119,20,24,17,2,18,0
+Tsunoda,Red Bull Racing,Barcelona,19,283.9587671810555,98,4,38,4,3,0
+Gasly,Alpine,Sao Paulo,9,253.8431808419015,74,16,11,5,6,0
+Sainz,Williams,Sao Paulo,0,215.52108770397774,30,71,3,6,3,0
+Hadjar,Racing Bulls,Spa,0,227.14608539435628,45,5,40,1,6,0
+Hadjar,Racing Bulls,Shanghai,21,294.17845710201425,36,50,14,11,1,0
+Albon,Williams,Imola,0,181.4790264425806,0,57,57,2,1,0
+Norris,McLaren,Sao Paulo,12,282.126823756315,49,75,26,3,16,0
+Hadjar,Racing Bulls,Silverstone,10,260.0499496278721,51,64,35,3,8,0
+Leclerc,Ferrari,Austin,11,222.79840686636373,36,81,3,5,13,0
+Lawson,Racing Bulls,Las Vegas,22,336.18569190093683,97,21,21,10,2,0
+Verstappen,Red Bull,Spa,15,195.28305846679808,44,92,38,2,20,0
+Alonso,Aston Martin,Zandvoort,16,221.3428637244351,82,12,50,8,3,0
+Antonelli,Mercedes,Sao Paulo,13,312.65238196217757,20,11,2,0,3,0
+Lawson,Racing Bulls,Mexico City,0,250.48009794424644,11,77,19,2,5,0
+Bortoleto,Sauber,Spa,3,306.7382340759496,53,24,9,4,7,0
+Lawson,Racing Bulls,Montreal,6,202.6115401796872,75,14,39,4,3,0
+Gasly,Alpine,Sakhir,22,301.3767689130744,1,17,15,8,9,0
+Hadjar,Racing Bulls,Miami,11,168.05485781372593,7,9,21,9,2,0
+Hadjar,Racing Bulls,Montreal,5,234.30526285186122,1,5,64,5,4,0
+Tsunoda,Red Bull Racing,Silverstone,14,252.75433735985484,60,96,13,4,13,0
+Tsunoda,Red Bull Racing,Sakhir,0,162.44937521812074,55,3,54,3,15,0
+Russel,Mercedes,Budapest,12,169.77666315147272,60,52,41,0,12,0
+Leclerc,Ferrari,Suzuka,17,317.8690392019962,48,58,13,11,9,0
+Antonelli,Mercedes,Shanghai,15,347.1940888660992,23,46,35,0,19,0
+Verstappen,Red Bull,Las Vegas,18,272.0979362056521,18,31,33,4,5,0
+Piastri,McLaren,Abu Dhabi,18,176.94386046143433,16,15,50,1,9,0
+Antonelli,Mercedes,Melbourne,5,232.3807965238964,73,89,45,10,5,0
+Verstappen,Red Bull,Spa,15,195.28305846679808,44,92,38,2,20,0
+Hulkenberg,Sauber,Spielberg,1,215.37958808610733,87,38,28,1,13,0
+Albon,Williams,Melbourne,23,194.28035533240384,97,38,8,10,10,0
+Stroll,Aston Martin,Baku,12,178.84576864411105,89,38,32,1,4,0
+Russel,Mercedes,Baku,25,308.0208614459902,43,53,64,0,8,0
+Hulkenberg,Sauber,Suzuka,21,238.7782233265819,13,74,22,3,9,0
+Bortoleto,Sauber,Monaco,3,273.59719743631814,42,27,64,0,11,0
+Hamilton,Ferrari,Lusail,1,287.7157674798125,88,87,32,4,8,0
+Norris,McLaren,Miami,17,198.17268991049346,13,73,17,2,6,0
+Hadjar,Racing Bulls,Barcelona,22,201.2661866926894,34,95,53,4,2,0
+Tsunoda,Red Bull Racing,Monza,16,277.75954333610383,87,40,48,5,2,0
+Stroll,Aston Martin,Shanghai,17,297.6042000260981,81,36,28,8,8,0
+Leclerc,Ferrari,Mexico City,6,214.6961302384102,81,7,41,7,2,0
+Stroll,Aston Martin,Spa,6,266.19348008683653,52,28,52,0,5,0
+Norris,McLaren,Abu Dhabi,15,175.8557039745851,91,94,52,5,17,0
+Stroll,Aston Martin,Singapore,9,232.77387500194143,62,38,58,3,1,0
+Tsunoda,Red Bull Racing,Monza,16,277.75954333610383,87,40,48,5,2,0
+Antonelli,Mercedes,Baku,0,216.8041599606194,5,89,36,5,5,0
+Hamilton,Ferrari,Singapore,15,192.92755283328222,64,14,45,3,17,0
+Gasly,Alpine,Zandvoort,11,193.31840563141398,59,60,1,0,2,0
+Leclerc,Ferrari,Shanghai,12,202.88012400771984,86,26,32,2,8,0
+Lawson,Racing Bulls,Imola,24,275.13156025306506,94,18,26,11,2,0
+Hadjar,Racing Bulls,Spa,0,227.14608539435628,45,5,40,1,6,0
+Gasly,Alpine,Budapest,5,187.98444479522698,91,67,30,6,4,0
+Bortoleto,Sauber,Barcelona,3,192.7059412298429,96,91,15,5,14,0
+Hadjar,Racing Bulls,Miami,11,168.05485781372593,7,9,21,9,2,0
+Hadjar,Racing Bulls,Baku,14,174.51071035282018,29,57,19,5,15,0
+Sainz,Williams,Barcelona,20,249.23408618584767,41,70,10,2,1,0
+Hamilton,Ferrari,Silverstone,6,186.8925251540505,43,16,4,9,1,0
+Leclerc,Ferrari,Baku,8,318.1468524385052,95,74,56,5,18,0
+Hulkenberg,Sauber,Spielberg,1,215.37958808610733,87,38,28,1,13,0
+Norris,McLaren,Sao Paulo,12,282.126823756315,49,75,26,3,16,0
+Albon,Williams,Mexico City,17,177.63981034786838,55,77,24,9,10,0
