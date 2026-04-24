@@ -1,10 +1,11 @@
 import ctypes
 
-# Загрузка библиотеки 
+# загружаем скомпилированный файл libpoly.so
 lib = ctypes.CDLL('./libpoly.so')
 
-# Описание типов аргументов и возврата 
+# явно указываем типы аргументов 
 lib.calc_poly.argtypes = [ctypes.POINTER(ctypes.c_double), ctypes.c_int, ctypes.c_double]
+# и тип возвращаемого значения (restype)
 lib.calc_poly.restype = ctypes.c_double
 
 def run_ctypes(coeffs, x):

@@ -1,7 +1,6 @@
 import sys
 import os
 
-# Добавляем корень проекта в пути поиска модулей
 current_dir = os.path.dirname(os.path.abspath(__file__))
 root_dir = os.path.join(current_dir, '..')
 sys.path.append(root_dir)
@@ -13,18 +12,17 @@ import pandas as pd
 from data_generator import get_test_data
 import python_ctypes.test_ctypes as ct
 import python_cffi.test_cffi as cf
-import poly_capi  # Скомпилированный C API
-import wrapper_cython  # Скомпилированный Cython
+import poly_capi 
+import wrapper_cython  
 
 def measure(func, name, data):
-    # Разогрев [cite: 135]
     func(data[0][0], data[0][1])
     
     run_times = []
-    for _ in range(50): # 50 запусков [cite: 19]
-        start = time.perf_counter() # [cite: 140]
+    for _ in range(50): 
+        start = time.perf_counter() 
         for coeffs, x in data:
-            func(coeffs, x) # 100 000 вызовов внутри одного замера [cite: 20]
+            func(coeffs, x) 
         run_times.append(time.perf_counter() - start)
     
     return {
@@ -37,7 +35,7 @@ def measure(func, name, data):
     }
 
 if __name__ == "__main__":
-    data = get_test_data() # 100 000 разных входных данных [cite: 21, 128]
+    data = get_test_data() 
     
     results = []
     results.append(measure(ct.run_ctypes, "ctypes", data))
@@ -47,5 +45,5 @@ if __name__ == "__main__":
     
     df = pd.DataFrame(results)
     print(df.to_string(index=False))
-    df.to_csv("benchmark/results.csv", index=False) # Сохраняем для графиков
+    df.to_csv("benchmark/results.csv", index=False) 
     
